@@ -1,0 +1,23 @@
+"Platform Product Manager
+";;;;
+Focus:;;;;
+" Build APIs, SDKs, services, or internal platforms that other products or teams depend on.
+";;;;
+PM Scope Domain;Recommended Level;Notes;;
+Execution & Delivery;5;Coordination with multiple dependent teams is key.;;
+Technical Fluency;5;Deep understanding of architecture, scalability, APIs, dev experience.;;
+Stakeholder Collaboration;5;Supports multiple “internal customers” across functions.;;
+Communication;4;Must communicate value and roadmap clearly to non-user stakeholders.;;
+Prioritization;4;Balances infra improvements with feature enablement.;;
+Roadmapping & Metrics;4;Often focused on reliability, latency, API usage.;;
+Strategy & Vision;3–4;Needs alignment with platform strategy and business enablement.;;
+UX & Design;2–3;If applicable, design API usability or internal tools.;;
+Customer Discovery;2;Internal user research more than external.;;
+Product & Market Discovery;2–3;Focused on tech and system landscape more than market competition.;;
+Domain Expertise;3;Varies by industry—e.g. DevTools, Cloud, Data Infrastructure.;;
+Data Literacy;3;Critical for monitoring and debugging platform usage.;;
+Leadership;3–4;Influences architectural and tech roadmap at scale.;;
+People Management;2–3;May lead TPMs or sub-PMs.;;
+GTM & Marketing;1;Rarely applicable unless it’s an external platform.;;
+Pricing & Revenue;1;Only for monetized APIs or platforms.;;
+Market & Regional Insights;1–2;Minimal unless customer-facing.;;

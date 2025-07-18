@@ -1,0 +1,1764 @@
+Characteristic;Description;Level;Level Description;Related Work;Activities;Tool;Recommendation;Priority
+Execution & Delivery;Ability to ship products efficiently, reliably, and iteratively.;1;"Understands delivery concepts but doesn’t yet lead them.
+Understand team rituals and basic delivery workflows; observe how functions sync (Eng, Design, QA)";;"- Observing sprint planning, standups, retros
+- Reading release notes
+Asking clarifying questions about blockers
+Join shadow grooming sessions
+Documents learnings
+Attend sprint demos; shadow syncs between PM, Eng, and QA";"Jira (basic navigation, ticket lifecycle)
+Notion / Confluence (reading specs and notes)
+ Google Docs/Sheets (documenting learnings, release checklists)
+- Agile/Scrum 101 course (e.g., Atlassian, Coursera)
+- Read Inspired by Marty Cagan";"Shadow a PM during planning and retrospectives
+Read and summarize sprint reports or release notes
+Ask developers/QA how things actually get delivered
+Take a Scrum or Agile basics course";
+;;2;"Starts managing execution within small scope.
+Own sprint rituals and basic delivery for your scope; coordinate with Design and QA to remove blockers";;"- Drives a minor release cycle
+- Manages small backlog items
+Leads a grooming session
+Practice writing clear tickets
+Facilitate basic standups or grooming sessions; track dependencies with Design";"- Learn Jira/Linear deeply
+Study RACI and team roles
+Jira / Linear (ticket creation, workflows, filters)
+Slack (for async status updates, reminders)
+Miro (for sprint planning, workflows)";"- Proactively removes simple blockers
+Uses metrics like cycle time or velocity to reflect on delivery efficiency
+Ask for feedback and participate retrospectives and ask for area where help is needed
+Practice writing well-scoped, testable user stories
+Run a sprint review or grooming session
+Learn about dependencies and buffer planning
+Start tracking your own tasks and blockers proactively";
+;;3;"Can deliver end-to-end on roadmap items with confidence
+Drive timely delivery across multiple teams; align roadmaps and delivery with x-functional stakeholders";;"- Manages cross-functional delivery
+- Coordinates QA/UAT cycles
+Handles rescoping or bug prioritization
+- Learn Agile facilitation (e.g., Scrum Master practices)
+- Create delivery dashboards
+Reflect on risk mitigation practices
+- Improves team rituals (e.g., retros, demos)
+Balances tech debt with velocity
+Lead retrospectives and planning meetings with Eng/Design; coordinate rollout plans";"Jira Dashboards / Advanced Roadmaps
+ClickUp or Notion (for release documentation)
+Google Sheets (for quick release and cycle time analysis)
+";"Establish delivery KPIs (velocity, cycle time)
+Proactively manage scope and stakeholder expectations
+Conduct retros with clear improvement actions
+Develop contingency plans for missed deadlines
+";
+;;4;"Drives continuous improvement and team delivery excellence.
+Orchestrate program-level delivery across squads; ensure consistent cadence and communication across teams";;"- Introduces new agile practices
+- Resolves systemic blockers
+Reduces cycle time or increases predictability
+Build cross-squad delivery maps; resolve integration bottlenecks
+
+";"Jira Automation
+Asana / Trello / Linear (if managing multi-tool teams)
+Looker / Amplitude (if tying delivery to usage outcomes)
+";"Identify and remove recurring delivery friction points
+Facilitate cross-team delivery alignment
+Design or refine sprint and release rituals
+Educate the team on estimation, velocity, and planning hygiene
+📚 Learning
+- Deep dive into lean/agile (e.g., Kanban, SAFe)
+- Learn how to run delivery health audits
+🌟 Differentiation
+- Creates a delivery playbook
+- Coaches other PMs or engineers on planning quality";
+;;5;"Delivery becomes a strategic strength for the product/org
+Oversee delivery strategy across functions; resolve resource conflicts and prioritize org-level commitments";;"- Designs org-wide delivery systems
+- Transforms struggling teams
+- Ties delivery metrics to OKRs and roadmap velocity
+
+Manage a delivery board for execs; run org-wide prioritization syncs";"	Airtable / Coda (for system design or planning ops)
+	Jira Portfolio / Advanced Reports
+	Loom / Notion / Confluence (for scalable knowledge sharing)
+";"Create a delivery playbook or internal wiki
+Influence engineering leadership on delivery systems
+Coach PMs on delivery leadership and planning mindset
+Align delivery with OKRs and company bets
+
+📚 Learning
+- Study org design and scaling delivery models (e.g., Team Topologies)
+- Join executive delivery retros
+🌟 Differentiation
+- Creates a delivery culture that’s seen as a strategic advantage
+- Presents delivery improvements at internal or public forums";
+Roadmap & Metrics;This domain represents a PM’s ability to define and communicate a product roadmap, align it with strategy, and measure success using meaningful KPIs. It includes outcome thinking, milestone planning, goal-setting, and connecting product work to business impact.;1;"I have a basic knowledge on how the roadmap is built. I am aware of the product KPIs.
+Understand how roadmaps and KPIs are built and tracked.
+Start participating in milestone and success metric discussions.";"PO: I can translate roadmap items into the backlog, I discuss the items with the teams and can clarify the roadmap/backlog items with assistance.
+Product ops (if available) for templates
+Engineering managers for milestone tracking
+Designers and tech leads for timeline feasibility
+";"Minimal contribution to the roadmap, e.g. working on several individual features and their updates
+Not responsible or accountable for the whole roadmap
+Participate in meetings 
+Understand release cadence and terminology
+Ask about product goals during team planning
+Participate in retrospectives to learn what success looks like
+Support roadmap documentation and ticket linking
+";"Jira, Confluence
+Jira: tickets tied to epics
+Confluence: roadmap pages
+Google Sheets: shared KPI logs or OKRs
+
+";"Learn the roadmap tools available on the market and the ones used in the company
+Observe how roadmap I managed by other PMs in the company and ask questions on why / how to make one or another
+Ask for guidance on how to start or take an available initiatives
+	Read “Product Roadmaps Relaunched”
+	Learn about OKRs (e.g., Measure What Matters – John Doerr)
+	Shadow a quarterly roadmap review
+🌱 Growth Rec:
+Ask to lead one small roadmap item end-to-end
+Try defining an OKR for a feature area you own
+";
+;;2;"I can contribute to the existing roadmap, update the items, get the changes as soon as they are discussed or shared with me.
+Take ownership of a portion of the roadmap and track related metrics.";"PO: I can create detailed backlog items (if needed) and discuss those with the teams. I can help teams with backlog division, acceptance criteria and target delivery dates clarifications.
+Analysts to help track metrics
+Customer Success: feedback loops
+GTM: roadmap alignment before launches
+";"Handles small tasks, contributes to documents, participates in discussions.
+Define success criteria for features
+Build mini-roadmaps (3–6 months)
+Use feedback and usage data to adjust plans
+Own OKRs or KPIs for your scope
+";"Productboard
+Productboard / Aha! / Jira Advanced Roadmaps
+Amplitude or Mixpanel: track feature usage
+Google Data Studio: build basic dashboards
+";"Request regular feedback, write reflections, and improve based on retrospectives.
+“Escaping the Build Trap” – Melissa Perri
+Learn to write measurable OKRs
+Analyze previous roadmap performance
+🌱 Growth Rec:
+Present roadmap and KPIs at internal meetings
+Run a feature retrospective with metrics impact
+";
+;;3;"I can independently update the roadmap, manage the incoming requests and I am responsible for roadmap up-to-date state in the online tool(s). I organize the roadmap in a way that it is easy to work with it, run filters and build dashboards
+Own a product roadmap with cross-team alignment and outcome accountability.";"PO: I can manage the teams backlog independently and translate all incoming requests into the working tasks for the teams. I can lead and contribute to the development rituals.
+Revenue/Marketing to align product-market timing
+Sales on customer commitments
+Engineering leads for feasibility and risks
+";"Leads regular workstreams, drives progress, resolves common blockers.
+Align roadmap to product strategy
+Prioritize based on impact, effort, and market needs
+Tie product initiatives to revenue or usage KPIs
+Create quarterly/annual planning narratives
+";"Airtable, Miro
+Notion/Confluence for roadmap narratives
+Advanced tracking (Looker, Tableau, Metabase)
+Prioritization frameworks (RICE, MoSCoW, Impact/Effort)
+";"Look for cross-team challenges, mentor juniors, and experiment with tooling.
+	Inspired – Marty Cagan (roadmapping philosophy)
+	Lenny’s Newsletter on product planning rituals
+	Reforge: Advanced Roadmaps or Metrics for PMs
+🌱 Growth Rec:
+Own roadmap across squads
+Launch KPI dashboards with alerting or trends
+Facilitate cross-functional roadmap alignment
+";
+;;4;"I can manage roadmap for one or several products independently, manage the dependencies and be open top of potential risks. I improve the roadmap intake process and optimize it according to the team and product needs.
+Drive multi-quarter roadmaps across products or teams, tying product outcomes to business metrics.";"PO: I can organize the backlog in a way that it is filled with the scope for the team for the next 2 sprints, the rituals and refinement processes are clear and the teams can work independently without PM/PO bottleneck tasks (with some exceptions).
+Product directors and finance for strategic bets
+Leadership for cross-org capacity planning
+BI and Growth to validate impact
+";"Initiates improvements, defines best practices, shares learnings.
+
+Lead strategic planning and cross-product sequencing
+Align product OKRs to company goals
+Drive initiative success with clear KPI frameworks
+Manage risk, runway, and roadmap adaptability
+";"Roadmunk, etc
+OKR alignment tools (Koan, Perdoo, Ally)
+Portfolio management (Aha!, Jira Align)
+Funnel dashboards by feature and region
+";"Speak at events, write thought pieces, collaborate on team-wide frameworks.
+“Good Strategy / Bad Strategy” – Richard Rumelt
+Reforge: Metrics & Models or Product Leadership
+Attend OKR retrospectives or board roadmap reviews
+🌱 Growth Rec:
+Lead roadmap alignment across departments
+Present initiative success in terms of KPI impact
+Coach PMs on strategic planning and trade-offs
+";
+;;5;"The roadmap is clean. I define and keep track on all characteristics of how it is organized, it serves the need of internal teams, product management org and communication with the customers. It has its process to update and solve ambiguities.
+
+Set long-term product direction, define success levers, and inspire cross-org execution through compelling roadmaps.";"CPO, Finance, Strategy leads
+Data science for impact modeling
+Execs & board for vision buy-in
+";"Defines strategy, trains others, resolves complex challenges.
+Create vision-backed roadmaps with quantified impact
+Own business-critical metrics across the org
+Lead yearly/3-year roadmap planning
+Coach others in metric-based storytelling
+";"Every tool can be adopted easily and mentored / consulted for others 
+Custom KPI dashboards for board/executive visibility
+Strategy docs connected to KPI success and risk
+Investment tracking tools (TAM/SAM/SOM market models)
+";"Teach, lead org-wide initiatives, or codify a playbook for your org.
+“Playing to Win” – A.G. Lafley
+SVPG workshops (Empowered, Transformed)
+Reforge: Advanced Strategy or Product Leadership
+🌱 Growth Rec:
+Lead product investment planning
+Connect multi-year product roadmap with market trends
+Shape KPI literacy across the org
+";
+Prioritization;"Ability to prioritize features, tasks, or technical debt using structured frameworks.
+The ability to effectively evaluate, compare, and select initiatives, features, or tasks to maximize value delivery under constraints";1;"Understand basic prioritization logic and observe how decisions are made.
+Develop curiosity about how features are chosen.
+Learn to distinguish between nice-to-have and must-have.
+Begin linking priorities to user and business value through observation.
+";"QA/Design reviewing acceptance criteria and aligning on value
+Supporting engineers with testing the “critical” path";"Attend grooming sessions and roadmap discussions
+Ask clarifying questions about why certain things are prioritized
+Help document backlog items and observe how decisions are made";"	Notion / Confluence – to read strategy docs or backlogs
+	Trello / Jira (viewer role) – to understand ticket priority states
+	Google Sheets – to see scoring templates (RICE, MoSCoW) used by others";"	Learn prioritization frameworks: MoSCoW, RICE, ICE
+	Create sample scoring tables for personal side projects
+	Reflect on value vs effort tradeoffs and ask “what if” questions during grooming
+";
+;;2;"Practice applying prioritization frameworks and contribute structured input.
+Learn and apply simple models (e.g., MoSCoW, RICE).
+Justify prioritization with clear effort vs. impact reasoning.
+Collaborate with stakeholders to understand their priority drivers.
+";"UX Designers prioritizing usability issues
+Support agents surfacing high-friction areas from users
+";"Suggest value/effort scores for backlog items
+Propose items to deprioritize or split
+Capture stakeholder input and convert to structured prioritization input";"Airtable or Google Sheets – simple scoring and matrix tables
+Miro – for visual value vs effort quadrants
+Jira – for backlog ordering and sprint commitment management";"Practice justifying prioritization decisions with business impact
+Run an experiment with different prioritization models (e.g., compare RICE vs Kano)
+Learn how tech constraints influence priorities";
+;;3;"Own and adapt prioritization of backlog items based on product goals and constraints.
+Regularly reprioritize based on new inputs (data, feedback, scope).
+Align prioritization with team capacity, business objectives, and product vision.
+Communicate trade-offs clearly and defend decisions with evidence.
+";"Sales prioritizing roadmap asks for deals
+CS/Marketing contributing to launch-critical needs
+";"Maintain a living backlog that reflects product goals
+Run structured prioritization workshops with stakeholders
+Reprioritize regularly based on data and feedback";"Productboard / airfocus – structured prioritization + roadmap sync
+Jira Advanced Roadmaps – for backlog slicing by themes/initiatives
+Amplitude / Mixpanel – to validate product impact post-delivery";"Conduct prioritization retros (what worked, what didn’t)
+Read Escaping the Build Trap (Melissa Perri) or Build What Matters
+Start aligning your team’s priorities to OKRs more explicitly
+";
+;;4;"Drive and scale consistent prioritization logic across teams and initiatives.
+Facilitate cross-functional prioritization alignment.
+Balance short-term vs long-term and innovation vs optimization initiatives.
+Coach others on how to prioritize effectively under ambiguity.
+";"Product Ops supporting roadmap rituals
+Tech leads providing effort estimations at scale
+";"Run prioritization at portfolio/theme level
+Align dependencies across multiple teams
+Balance short-term impact vs long-term strategy initiatives
+";"Aha! / Roadmunk / airfocus – for scalable roadmap strategy
+Figma + Miro – to co-create prioritization logic with designers/devs
+Looker/Tableau – for building business-case visuals and metrics
+";"Create a team-wide prioritization playbook
+Mentor junior PMs on decision frameworks
+Facilitate roadmap alignment across departments (e.g., marketing, ops)
+";
+;;5;"Establish organization-wide prioritization principles that align with strategic bets.
+Define and evangelize prioritization frameworks tied to OKRs or business bets.
+Ensure alignment between roadmap prioritization and company strategy.
+Audit and refine the portfolio mix across teams or domains (e.g., Core vs Growth vs Expansion).
+";"Leadership defining strategic bets
+Finance and strategy teams evaluating opportunity cost of features
+
+";"Set prioritization philosophy/org principles (e.g., OKRs first, then user feedback)
+Align team-level prioritization with executive bets
+Audit portfolio balance (core vs expansion vs innovation)
+";"Coda / Notion Systems – to build living prioritization engines
+Company dashboards (custom SQL, OKR tracking)
+Executive brief templates (pitch decks, ROI estimates, prioritization logic)
+";"Define a scalable prioritization framework for the org
+Host quarterly prioritization calibration sessions across departments
+Speak publicly about prioritization in complex environments
+";
+Communication;Effectiveness in clearly articulating product ideas, status, and rationale.;1;"Understand the importance of communication and observe how others do it.
+Begin observing how product communication differs by audience and intention.";"QA reporting bugs clearly
+Designers explaining rationale in reviews
+
+";"Listen in stakeholder meetings and sprint planning
+Document meeting notes
+Ask clarifying questions during discussions
+Listen to how PMs brief engineers during standups
+Summarize meeting takeaways in written form
+Observe stakeholder or customer meetings";"Slack – for clear async communication
+	Google Docs / Notion – basic product doc formatting
+	Loom – intro to async video updates";"	Course: Writing for Product Managers – Reforge or Maven
+	Book: Made to Stick by Chip & Dan Heath
+	TED Talk: Talk Nerdy to Me by Melissa Marshall
+
+—-
+Summarize a meeting or spec and ask for feedback
+Write short “problem / solution” updates to teammates
+Observe how senior PMs frame decisions
+
+Internal: within the PM team, 1:1 updates
+Passive observation of customer / exec interaction
+
+";"Communication in product management is the ability to effectively craft and deliver messages — verbal, written, and visual — tailored to diverse audiences across varying levels of context, authority, and domain expertise. This includes:
+Cross-functional team alignment (e.g., engineers, designers)
+Internal stakeholder engagement (e.g., C-level, sales, ops)
+Peer PM knowledge sharing
+End-user communication (B2B/B2C)
+Product presentations at internal and external forums
+Framing product rationale, vision, and roadmap in a way that inspires action
+"
+;;2;"Develop clarity in written and verbal communication; adapt tone for context.
+Start actively communicating across peers and small groups with clarity and structure";"Designers running design critiques
+Sales presenting product capabilities to prospects
+";"Write specs or sprint updates
+Facilitate team check-ins or demos
+Summarize feedback into themes and action items
+Write backlog grooming notes or feature summaries for engineers
+Present updates in sprint reviews or PM syncs
+Respond to B2B/B2C customer inquiries with help
+";"	Confluence / Notion – organizing living product docs
+	Loom / Miro – visual + async collaboration
+	Zoom / Google Meet – for small stakeholder briefings";"	Course: [Product Communication Mastery – Canny or Product Alliance]
+	Book: Crucial Conversations
+	Podcast: Lenny’s Podcast (episode with Jackie Bavaro)
+🚀 Growth Recommendations:
+Practice storytelling in weekly updates
+Run a dry run of your stakeholder presentation and get feedback
+Write 1-pager decisions or trade-offs
+Internal: to engineers and peer PMs
+Customers: light participation in user interviews or support follow-up
+Internal events: team-level demo or update
+";
+;;3;"Communicate effectively with all audiences and in various formats; own the product narrative.
+Own the communication of your product area across internal and external touchpoints.";"Marketing writing launch copy
+Customer Success teams translating product changes for users";"Lead sprint reviews and cross-functional updates
+Present roadmap and trade-offs to leadership
+Document decisions with context and rationale
+Lead feature deep-dives for engineering
+Present your roadmap to internal stakeholders
+Represent your team in all-hands or town halls
+Write customer-facing release notes
+";"Google Slides / Pitch – for high-quality presentation decks
+Asana / Linear – for clear status updates
+Miro / Figma – for visual storytelling in discovery
+";"	Book: Influence Without Authority by Cohen & Bradford
+	Course: [Product Leadership Communication – Product School]
+	Workshop: Storytelling for Business (General Assembly / IDEO U)
+🚀 Growth Recommendations:
+Create a reusable presentation template for stakeholder updates
+Hold regular async updates and track engagement
+Frame decisions using a consistent “Why / What / Impact” structure
+Internal: with cross-functional teams, leads, mid-management
+External: speaking with end users or B2B accounts in feedback loops
+Presenting at internal showcases
+
+";
+;;4;"Scale communication across teams; shape shared language and communication rituals.
+Define and improve communication rituals and strategy at the team or department level.";"People Ops shaping internal communication culture
+Customer Experience crafting response scripts
+";"Define and lead quarterly roadmap communications
+Build templates for specs, PRDs, or release notes
+Guide teams on feedback loops (internal and user-facing)
+Standardize formats for roadmap docs or stakeholder updates
+Coach junior PMs on clear writing and presentations
+Act as liaison between C-level and team
+Design internal communication systems
+";"Notion (template creation, doc management at scale)
+Miro / Coda (narrative and framework communication)
+Internal comms platforms like Slite or Guru
+";"	Book: Radical Candor by Kim Scott
+	Course: [Stakeholder Management – Reforge]
+	YouTube: “Amazon 6-pager writing culture”
+🚀 Growth Recommendations:
+Lead a communication audit of your team: what’s working, what’s noisy
+Run async project updates across time zones
+Mentor junior PMs on framing and stakeholder alignment
+Internal: executive and cross-team alignment
+External: client escalation calls, power users
+Internal events: quarterly reviews, leadership check-ins
+
+";
+;;5;"Shape the product narrative across the org; influence through storytelling, clarity, and alignment.
+Shape and scale the product narrative across the company and external landscape.";"Founders pitching vision to investors
+Brand / comms teams crafting narrative consistency
+
+";"Define product communication strategy (vision, updates, launches)
+Represent product org in exec reviews or board meetings
+Influence communication culture across the company
+Present product vision at exec briefings, board updates, or public events
+Write or deliver keynote-style product updates internally
+Craft narrative for investor decks, PR, and external partnerships
+Train others in high-impact messaging
+
+";"	Coda / Notion Systems – for scalable internal documentation
+	Loom or Descript – for async, high-context storytelling
+	OKR dashboards – for data-backed storytelling";"	Book: Narrative and Numbers by Damodaran
+	Advanced storytelling workshops (IDEO U, Duarte, etc.)
+	Exec coach for strategic communication and presence
+🚀 Growth Recommendations:
+Craft and pitch a unified story that links roadmap, vision, and customer value
+Mentor senior PMs and cross-functional leaders on storytelling
+Lead executive product updates with a narrative arc
+External: public speaking, conferences, customer summits
+Internal: aligning roadmap with OKRs, CEO & board influence
+Media: blog posts, podcast guesting, thought leadership
+";
+Strategy & Vision;"Ability to shape product direction based on goals, vision, and market trends.
+The ability to shape, communicate, and evolve a long-term direction for a product that aligns with business objectives, customer needs, and market dynamics. It includes market understanding, product positioning, goal setting, and influencing others with a coherent, inspiring product vision.
+";1;Understand what product strategy and vision are, and how they guide product decisions.;"Designers learning about product goals to align UX strategy
+Junior marketers translating strategic points into messaging
+Peer PM or Associate PM
+Shares early-stage product context and backlog structure
+Engineering Lead
+Explains technical constraints that influence product direction
+Design / UX
+Introduces how user journeys and research tie into product choices
+Product Manager (more senior)
+Models how product strategy is communicated and applied
+
+PM focus: Learn to ask “why now?” and trace product decisions back to strategic direction.";"Read product strategy documents, vision decks, or OKRs
+Attend vision reviews and observe how direction is communicated
+Ask questions about why something is on the roadmap";"Notion / Confluence – to read strategic documentation
+Miro – to visualize value chains and customer journeys
+Google Docs – for summarizing strategic insights
+";"	Book: Inspired by Marty Cagan
+	Podcast: Lenny’s Podcast (Strategy-focused episodes)
+	Course: Product Strategy Fundamentals (Maven, Reforge preview)
+🚀 Growth Recommendations:
+Ask your PM or team: “Why are we solving this problem now?”
+Read company strategy docs and write your own 1-paragraph summary
+Follow product leaders and strategy thinkers on LinkedIn
+";
+;;2;Begin contributing to strategic thinking through discovery, data, and customer context.;"Marketing identifying underserved segments
+UX leading opportunity mapping or discovery interviews
+UX Researcher / Designer
+Helps surface validated user needs and opportunity areas
+Customer Support / Success
+Offers real-world friction points and qualitative feedback
+Marketing or Growth
+Provides customer segmentation, early funnel data
+Sales (esp. in B2B)
+Surfaces repeat customer objections and strategic feature asks
+
+🔄 PM focus: Co-create strategy inputs from user pain, usage data, or market signals.
+";"Identify customer pain points worth solving
+Propose strategic themes or opportunities to explore
+Suggest metrics to evaluate strategic bets
+";"	Google Sheets / Looker – for data-backed hypothesis generation
+	Miro / Figma – to map strategy assumptions or opportunity spaces
+	Productboard / Jira – to connect strategy to delivery";"	Book: Playing to Win by Lafley & Martin
+	Course: Reforge’s Product Strategy (starter level)
+	Video: Teresa Torres on Opportunity Solution Trees
+🚀 Growth Recommendations:
+Write a strategy brief for one product area
+Participate in discovery research and map findings to goals
+Practice “zooming out” from features to themes to bets
+";
+;;3;"Own and evolve the strategy for a product or domain; communicate its vision with clarity.";"BizOps or Finance testing new business models
+Sales creating customer segmentation strategy
+Engineering Manager / Architect
+Provides feasibility and scaling implications for bets
+Marketing Lead / Growth PM
+Aligns product goals with acquisition and retention strategy
+Finance / BizOps
+Shares revenue data, cost structures, and ROI modeling
+Customer Success Manager (CSM)
+Advocates for key account goals, renewals, and health scores
+
+🔄 PM focus: Partner closely with each domain to validate assumptions and align strategy to measurable outcomes.
+";"Define a product vision that aligns with customer and business goals
+Choose and justify product direction based on constraints and trade-offs
+Present strategic roadmap to stakeholders and defend it";"Notion / Coda – for vision documents, strategy articulation
+Miro / Lucidchart – for business model canvases or vision boards
+Amplitude / Mixpanel – to tie product metrics to strategic outcomes
+";"	Book: Good Strategy Bad Strategy by Richard Rumelt
+	Workshop: Strategy Sprint by Strategzer or Product Academy
+	Read: Casey Winters’ essays on strategy and roadmapping
+🚀 Growth Recommendations:
+Align your roadmap with a vision doc you’ve written
+Practice “kill a feature” or “double down” scenarios with your team
+Facilitate a visioning or positioning session
+";
+;;4;Guide and align multiple teams or products with a cohesive strategy.;"Executive Ops running planning cycles
+GTM teams aligning launch strategy with roadmap
+Product Ops / Program Manager
+Ensures OKR/strategy alignment across teams
+Sales Leadership / Partnerships
+Provides market lens for strategic alliances and expansion
+Design Director / UX Lead
+Shapes the long-term UX direction aligned with product vision
+Customer Insights / Analytics
+Models retention curves, TAM, and market segmentation
+
+🔄 PM focus: Cross-team orchestration — ensuring all parts of the org operate with shared strategic context.
+";"Synthesize input from multiple teams into a unified strategy
+Align vision with company goals, OKRs, or go-to-market strategy
+Guide teams on how to test and evolve their strategic assumptions";"Coda / Airtable – to model strategy across product lines
+Power BI / Tableau – for strategy reporting dashboards
+Positioning Canvas, Lean Canvas – for product-market fit tracking
+";"	Book: Escaping the Build Trap by Melissa Perri
+	Course: Reforge Advanced Product Strategy
+	Blog: Ben Horowitz, Brian Balfour, and Gib Biddle's frameworks
+🚀 Growth Recommendations:
+Create a scalable model for strategic alignment (e.g., vision framework + roadmap)
+Facilitate offsites or strategy sprints
+Mentor other PMs on how to evolve hypotheses into bets
+";
+;;5;Define and evangelize product strategy as a competitive advantage and cultural foundation.;"Founders and CPOs defining future bets
+Board members evaluating strategic alignment
+CEO / CPO / Founder
+Collaborate on long-term product bets and business vision
+Board / Investors / Strategic Advisors
+Provide macro-trends, market forces, and value prop validation
+Legal / Policy / Compliance
+Influence product direction in regulated domains (e.g., finance, health)
+Public Relations / Comms
+Shape external narrative around product and strategic moves
+
+🔄 PM focus: Define the product future and ensure it is both bold and feasible. Influence high-stakes decisions and external positioning.
+";"Set long-term product bets in collaboration with executives
+Shape portfolio strategy across products or business units
+Communicate vision at public or investor-facing forums
+Influence org structure or business model based on product strategy
+";"Custom frameworks built in Coda, Notion, or Whimsical
+Investor-grade pitch decks / narrative slides
+Company OKR systems to align vision to execution
+";"	Book: The Advantage by Patrick Lencioni
+	Exec Course: Stanford Exec Ed – Strategy & Leadership
+	Keynotes: Watch Airbnb, Figma, or Notion’s vision speeches
+🚀 Growth Recommendations:
+Write a 3-year vision deck and test it with leadership
+Lead cross-functional vision alignment for the org
+Represent the product org at public speaking engagements or exec councils
+";
+Customer Discovery;"Capability to understand user needs through interviews and research.
+
+The continuous practice of engaging with users, customers, and stakeholders to deeply understand their behaviors, problems, motivations, and unmet needs — and to validate product direction, reduce risk, and build with confidence.";1;"Understand why customer discovery matters and begin observing user insights in action
+
+Understand why customer discovery matters and begin observing user insights in action.";"UX Researchers — conduct interviews, synthesize findings
+Customer Support — handle real-world user friction
+CS Reps — share churn reasons, success blockers
+
+";"Attend user interviews as a silent observer
+Read past interview summaries or product feedback
+Watch support tickets, NPS comments, or call transcripts";"Dovetail / Condens – for user research repositories
+Typeform / Google Forms – to view how surveys are run
+Zoom / Google Meet – for live discovery calls
+";"	Book: The Mom Test by Rob Fitzpatrick
+	Course: “Customer Discovery” – Maven or Product School
+	YouTube: Teresa Torres' talks on continuous discovery
+🚀 Growth Recommendations:
+Shadow a researcher or PM running discovery
+Summarize 3 user quotes and map them to product issues
+Learn the difference between problem vs solution space
+";"1. Customer Discovery (micro-level)
+Focuses on direct engagement with users/customers to understand needs, behavior, and product fit. → ""What pain are we solving, for whom, and why now?""
+✅ Most relevant for:
+Feature ideation
+UX improvements
+Product-market fit work
+Early-stage B2C or B2B products
+
+🌍 2. Product & Market Discovery (macro-level)
+Focuses on the ecosystem: competitors, industry shifts, TAM, buyer needs, business goals, pricing, innovation gaps. → ""Where is the market heading, and how do we strategically place ourselves to win?""
+✅ Most relevant for:
+Market expansion
+Positioning and value prop
+B2B strategy, enterprise sales, platform plays
+New vertical exploration (e.g. fintech, healthtech)
+Outsourcing or service-based PMs researching client opportunities
+
+🔄 How They Interact:
+Situation
+Primary Discovery Domain
+Why
+Building a new user-facing feature
+Customer Discovery
+Understand pain → validate ideas
+Entering a new region or market
+Market Discovery
+Map competition, trends, regulations
+Shaping product vision
+Both
+Align vision with needs and market evolution
+Working with enterprise clients
+Market Discovery
+Deep dive into buying triggers, budget cycles, legal blockers
+Designing onboarding flow
+Customer Discovery
+Usability, expectations, activation steps
+Creating consulting proposal (outsourcing)
+Market Discovery
+Industry maturity, buyer personas, trends
+
+
+🧠 PM Scope Implication:
+You can split or nest these under a broader label like:
+🔍 Discovery (Customer & Market) or
+Use two separate characteristics:
+Customer Discovery
+Product & Market Discovery
+
+✅ What to Add to PM Scope for Product & Market Discovery:
+🧩 Activities (by grade):
+Competitive landscape mapping
+Value chain / ecosystem analysis
+ICP definition, JTBD from business buyers
+TAM/SAM/SOM sizing
+Innovation scouting (adjacent spaces)
+GTM / positioning analysis
+📊 Tools:
+Crunchbase / Pitchbook / Similarweb / Statista
+Ahrefs / SEMrush / G2 / Capterra
+Market Map templates (CB Insights style)
+Lean Canvas / Business Model Canvas
+📚 Learning:
+Book: Blue Ocean Strategy, Crossing the Chasm, Obviously Awesome
+Course: Reforge Growth Strategy, Strategyzer Academy
+Podcasts: Masters of Scale, 20VC, Acquired.fm
+
+🤔 For PMs in outsourcing / service companies:
+They often act like product consultants. PMs need to:
+Understand client industries & challenges
+Frame solutions that align with business goals not just features
+Use discovery to sell trust and insight, not just delivery
+This elevates discovery from tactical feature planning to strategic business partnership.
+"
+;;2;Run basic discovery activities and synthesize inputs into clear signals.;"Designers — facilitate usability tests or journey maps
+Product Marketing — gather voice-of-customer insights
+Sales — relay prospect pain during qualification
+";"Conduct lightweight interviews (internal users or friendly testers)
+Use surveys to validate pain points or interest
+Share discovery notes in a structured format with the team
+";"	Miro / FigJam – to map pain points and opportunities
+	Google Sheets / Airtable – organize and cluster insights
+	Calendly / Maze – to schedule and automate user research";"	Book: Continuous Discovery Habits by Teresa Torres
+	Course: User Research for PMs – Product Alliance
+	Resource: Opportunity Solution Tree (OST) framework
+🚀 Growth Recommendations:
+Run your first end-to-end user interview
+Cluster feedback into patterns and share a short report
+Practice asking problem-focused, non-leading questions
+";
+;;3;Own the discovery process for your product or feature and influence roadmap through insight.;"Tech Lead — feasibility discussion for discovered needs
+Data Analyst — enrich insights with usage data
+CS/Success — input into user segmentation for discovery
+
+";"Plan and run regular discovery sprints with customers
+Translate findings into opportunities and prioritized problems
+Create OSTs or assumption maps to link insights to outcomes
+";"Dovetail / EnjoyHQ – tagging and theme building
+Miro + OST framework – track product discovery over time
+Hotjar / FullStory / Mixpanel – behavioral insights
+";"	Podcast: Build with Maggie Crowley (user-first product stories)
+	Guide: Intercom's Jobs-to-be-Done framework
+	Workshop: Continuous Discovery Masterclass – by Teresa Torres
+🚀 Growth Recommendations:
+Schedule recurring discovery interviews (weekly or biweekly)
+Involve your team in synthesis and decision-making
+Start prioritizing problems, not solutions
+";
+;;4;Scale and institutionalize customer discovery across teams and orgs.;"Research Ops — manage recruitment, scheduling, consent
+PMO / Product Ops — manage feedback-to-roadmap flow
+UX Leads — standardize patterns across product areas
+
+";"Build systems for discovery rituals (e.g. feedback tagging, insight sharing)
+Mentor team members in running interviews and synthesis
+Run assumption mapping or problem framing workshops
+";"Dovetail + Zapier / Notion – auto-tag and share customer insights
+Coda / Airtable – living repository of problems + signals
+CRM integrations – to link customer accounts with feedback
+";"	Book: Lean Customer Development by Cindy Alvarez
+	Guide: Figma / Maze Playbooks for discovery at scale
+	Article: “How to Build a Discovery Machine” – by Hiten Shah
+🚀 Growth Recommendations:
+Create a shared insights dashboard
+Institutionalize discovery review rituals
+Build a playbook to onboard others into customer discovery";
+;;5;Influence company strategy by embedding discovery in every product decision and strategic bet.;"CPO / Head of Product — co-own long-term value strategy
+CEO / Sales / Investor Relations — validate strategic risks with real users
+Innovation / R&D — translate unmet needs into bold bets
+";"Use discovery insights to shape long-term vision
+Present customer narratives in executive or investor pitches
+Run advanced jobs-to-be-done segmentation and trend analysis
+";"Segment / Amplitude + qualitative overlays
+UserTesting, Wynter – advanced message + concept validation
+Jobs Atlas, Value Prop Canvas – strategic positioning
+";"	Book: Competing Against Luck by Clayton Christensen
+	Workshop: JTBD & Innovation Strategy – Strategyn or Tony Ulwick
+	Case Studies: Airbnb, Intercom, and Spotify discovery cultures
+🚀 Growth Recommendations:
+Frame discovery insights into strategic themes (e.g. underserved segments)
+Lead workshops that combine discovery, strategy, and vision
+Build a voice-of-customer system that informs quarterly planning
+";
+Product & Market Discovery;The strategic capability to analyze markets, competition, industry dynamics, and innovation opportunities to inform product positioning, prioritization, and direction. It focuses on uncovering what’s possible and what’s valuable in the broader business landscape — especially critical for B2B, platform products, consulting PMs, and PMs working on product-market fit or expansion.;1;Develop basic understanding of how external market factors affect product decisions.;"Product Marketing – shares competitor messaging
+Sales / Presales – provides deal blockers, buyer pain
+UX Research – helps distinguish user vs market problems
+";"Read competitor websites or pitch decks
+Follow industry blogs or product launches
+Attend internal sessions where market insights are presented
+";Google Alerts, Product Hunt, Crunchbase (lite), LinkedIn;"Summarize a competitor's positioning in 3 bullet points
+Identify key trends from your product’s industry
+Ask: “What external trends might influence our roadmap?”";"Keep Product & Market Discovery separate, as it's broader than customer discovery and deserves strategic attention
+Clarify relationships between the overlapping categories in descriptions and maybe even in the assessment tool itself:
+e.g. “If you score high here, consider also improving XYZ”
+Make the domain dynamic, depending on PM type:
+B2B PMs need more weight on this
+Early-stage startup PMs might mix it into Strategy
+B2C PMs may rely more on Customer Discovery
+"
+;;2;Conduct structured discovery of competitors and market segments.;"Sales – uncovers objections, deal blockers
+BizDev – sees partner dynamics
+Strategy / BizOps – provides TAM estimates
+";"Create a basic market map or competitor matrix
+Identify key buying criteria or value gaps
+Support ICP (Ideal Customer Profile) definition
+Analyze feedback from sales or partners on client objections
+";"G2, Capterra, App Store reviews
+Google Trends, Ahrefs / Ubersuggest
+Business Model Canvas, Value Proposition Canvas
+";"Book: Blue Ocean Strategy; Canvas templates; Lean Competitive Analysis
+Interview sales or success reps about customer patterns
+Build a SWOT analysis for your top 3 competitors
+Join competitive intel Slack channels or Notion pages
+";
+;;3;Independently analyze and validate product opportunities based on market, segment, or buyer insights.;"GTM teams – to validate messaging and value props
+Finance – to vet pricing assumptions
+Legal / Policy – to assess compliance risk (in regulated markets)
+";"Define business cases for new features or products; Analyze competitor gaps; Assess pricing benchmarks; Lead benchmarking sessions.";"Lean Canvas, Strategyzer tools
+Market mapping in Miro or Pitch
+Apollo, Similarweb, Crunchbase (deep use)
+";"Book: Crossing the Chasm; Course: Strategyzer Market Discovery; Podcast: acquired.fm
+Build a full “Product Opportunity Assessment” doc
+Use customer discovery to validate market size + need
+Track competitive moves quarterly and share insights with your team
+";
+;;4;Guide cross-team market discovery efforts to shape portfolio strategy or expansion decisions.;"Sales Enablement – helps adapt product story for new verticals
+Strategy / C-level – for expansion planning
+Partners / Alliances – input into market fit
+";"Lead cross-functional opportunity sizing efforts
+Validate vertical or regional expansions
+Guide teams on defining product-market fit by segment
+Create competitive GTM readiness checklists
+";"Segment, Apollo, Clearbit – market segmentation
+Win/loss tools or interviews
+Internal Notion hub for market intelligence
+";"Harvard Business Review case studies; Course: Reforge Growth Strategy; Resource: CB Insights newsletters
+Create a “discovery playbook” for new markets or verticals
+Lead a cross-functional innovation scan
+Benchmark your product’s category against future entrants
+";
+;;5;Shape product and company strategy by synthesizing global trends, competition, and emerging market shifts.;"Founders / CPO / CEO – define macro-strategy
+Board / Investors – pressure-test growth bets
+Industry analysts / press – shape perception
+
+";"Define product bets aligned with major market opportunities
+Author market-entry or category-creation proposals
+Influence investor, C-suite, or board-level strategy
+Guide product vision through external ecosystem shifts
+";"CB Insights, Pitchbook, Statista, McKinsey insights
+Portfolio analysis frameworks (Ansoff, GE Matrix)
+Category design narratives
+
+";"Book: Play Bigger (category design); McKinsey trend reports; Podcast: Masters of Scale
+Publish internal strategy memos on market opportunities
+Lead annual discovery cycles (e.g., “Where should we go next?”)
+Speak at industry panels or contribute to thought leadership
+";
+Stakeholder Collaboration;Ability to align with stakeholders and manage cross-functional expectations.;1;Recognize the importance of stakeholder relationships and begin observing team dynamics.;"Engineers receive and interpret requirements; Designers translate feedback into UX; QA reports bugs and timeline risks.";"Attend cross-functional meetings; Observe PMs managing stakeholder updates; Take notes on feedback from other roles.
+
+Understand who your stakeholders are across functions; learn their roles and communication styles	Create a stakeholder map; introduce yourself and ask about their goals";Slack (read-only), Zoom (note-taking), Confluence (view-only), Miro (view maps);"Article: Atlassian Stakeholder Management; Book: Radical Candor (intro)
+List key stakeholders in your product area; Attend 1:1s with shadow PM; Reflect on conflicting perspectives.
+Create a stakeholder directory; Schedule shadowing with senior PMs; Reflect on meeting dynamics.";
+;;2;Engage stakeholders proactively and contribute to transparent information flow.;"Designers share early mockups; Engineers raise concerns on feasibility; Support shares user complaints and requests.";"Draft status updates; Capture feedback from internal users; Run feedback syncs; Schedule and document decisions.
+
+Proactively share progress and risks with functional partners (Design, Eng, Sales, CS); clarify dependencies	Schedule regular check-ins with key cross-functional contacts";Confluence (update pages), Loom (share async updates), Notion (feedback docs), Jira (ticket linkage);"Book: Crucial Conversations; Course: Communication for Product Managers (Udemy)
+Host your first stakeholder sync; Share regular updates; Learn to summarize without losing nuance
+Host first stakeholder sync; Log feedback in shared doc; Practice summarizing stakeholder goals in 2 sentences.";
+;;3;Manage ongoing stakeholder expectations and alignment across product development cycles.;"Engineering leads plan resourcing; Marketing aligns messaging; Sales/CS need timelines for customer comms.";"Run regular syncs and retros; Manage dependencies; Address concerns early; Propose trade-offs transparently.
+
+Facilitate rituals that involve multiple functions; ensure feedback loops and decision clarity across org	Co-run design reviews, QA handoffs, or enablement sessions with other teams";Miro (stakeholder maps), Google Slides (roadmap decks), Figma (comment and tag flows), StatusHero or Range;"Book: The Art of Product Management (Gibson Biddle); Workshop: Stakeholder Alignment Labs
+Run retrospective on communication breakdowns; Define stakeholder personas and comm plans.
+Lead a roadmap walkthrough with 3+ teams; Resolve a live prioritization conflict; Document RACI matrix.";
+;;4;Facilitate structured stakeholder collaboration practices across teams and initiatives.;"Product Ops defines PM rituals; GTM sets launch goals; Strategy reviews milestone alignment with business plans.";"Standardize feedback loops; Define cross-team operating cadence; Escalate blockers constructively; Lead alignment ceremonies.
+Lead x-functional planning sessions; advocate for partner teams’ needs while advancing product goals	Create and drive stakeholder-facing delivery dashboards and updates";"Asana/ClickUp (task tracking); Retool or Notion Dashboards; Lucidchart (process flows); OKR dashboards";"Podcast: Lenny's Podcast; Article: 'Influence Without Authority' summary; Book: Team of Teams
+Build scalable update templates; Facilitate stakeholder onboarding for new PMs; Coach others on handling conflict.
+Build stakeholder operating cadences; Lead cross-functional OKR sync; Onboard new PMs into comm process.";
+;;5;Create and lead strategic stakeholder engagement frameworks that influence roadmap and product direction.;"CPO aligns orgs on bets; CEO communicates vision; Board challenges roadmap risk; Partnerships align incentives.";"Design stakeholder maps for complex orgs; Shape roadmap with exec buy-in; Navigate competing agendas; Manage exec or board-level expectations.
+Build long-term relationships with stakeholders; influence decisions and strategy alignment across departments	Represent PM org in x-functional steering committees or exec reviews";"Custom dashboards (Tableau, Amplitude, Looker); Pitch/PowerPoint for board decks; Stakeholder CRM tools";"Book: Influence (Cialdini); Course: Strategic Stakeholder Communication (Reforge); Templates: Stakeholder Risk Mapping
+Create influence map; Pilot stakeholder feedback councils; Facilitate strategy sessions with C-suite
+Run stakeholder influence mapping; Facilitate roadmap alignment with execs; Create voice-of-stakeholder summaries.";
+Technical Fluency;"Understanding of technical systems, APIs, architecture, and dev constraints.
+Technical fluency is the PM’s ability to understand, communicate, and reason about technology and architecture—not to build things themselves, but to make informed decisions, translate requirements, and collaborate effectively with technical teams.";1;You understand the basic architecture of how digital products work and can observe how technical decisions influence product outcomes.;"Engineers explain system constraints, APIs, or scalability issues
+QA talks about automation and test frameworks
+Designers rely on PMs to know what is technically feasible
+";"Sit in on sprint planning to observe terminology
+Review developer documentation or architecture diagrams
+Learn common backend/frontend/cloud terminology
+Ask engineers to explain system dependencies
+";"Swagger / Postman (view APIs) – Understand endpoints
+Lucidchart / draw.io (read diagrams) – Comprehend system flows
+VS Code (read-only) – View file structure or configs
+GitHub (read-only) – Read changelogs or pull request titles
+";"	Book: “The Product Manager's Guide to Tech” by Josh Anon
+	Video: Crash Course – Web Development Basics
+	Course: Frontend Masters: Computer Science for PMs
+🌱 Growth Recommendations:
+Ask engineers to walk you through “a day in their stack”
+Create a glossary of key system terms for your team
+Map out your product’s architecture with a developer
+";
+;;2;You can engage in technical conversations, ask clarifying questions, and make trade-off decisions with basic engineering understanding.;"Backend engineers suggest DB or infra changes
+SREs flag technical debt or uptime concerns
+Designers ask about animation or layout constraints
+";"Translate product problems into technically relevant terms
+Collaborate on effort estimation and sequencing
+Support QA efforts with test case awareness
+Understand API contracts and SDK constraints
+";"Postman (test API endpoints)
+Swagger (review API docs)
+Jira (review dev subtasks & dependencies)
+GitHub (review commits & PR descriptions)
+";"	Book: “Decode and Conquer” (Ch. on Technical PMs)
+	Course: Udemy – APIs for Beginners, DevOps 101
+	Cheatsheet: Web dev stack (HTML/CSS/JS/REST overview)
+🌱 Growth Recommendations:
+Conduct tech trade-off retrospectives with your team
+Build a mock app using no-code tools and explain logic
+Learn to differentiate between tech debt, bugs, and complexity
+";
+;;3;You independently manage product trade-offs, collaborate on architecture discussions, and advocate for technical improvements.;"Tech leads discuss architectural evolution
+QA suggests tooling improvements for release quality
+DevOps integrates observability into roadmap initiatives
+";"Evaluate impact of tech debt vs. feature work
+Shape MVP scope by understanding engineering cost
+Prioritize refactoring or infra tickets with engineers
+Participate in sprint planning with dependency awareness
+";"DataDog / Grafana / Sentry – Monitor product stability
+Retool / PostHog – Build internal tooling or instrumentation
+Amplitude / Segment – Discuss events and event naming
+Jira Automation – Automate workflows tied to deployment
+";"	Book: “The Phoenix Project” – DevOps storytelling
+	Course: Lenny’s Guide to PM-Eng Collaboration
+	Video: Google Talks – Architecture 101 for Product Leaders
+🌱 Growth Recommendations:
+Run a “Why This Was Hard” postmortem with eng after complex features
+Write your own “Tech Constraints” section for PRDs
+Propose 1 infra initiative and advocate it to leadership
+";
+;;4;You lead product decisions with strong awareness of technical context and influence engineering strategy through structured collaboration.;"Architects plan migration; PMs drive business cases
+Legal/Privacy review implications of technical changes
+Product Ops integrates metrics into workflows
+
+";"Align business priorities with tech evolution (e.g. replatforming)
+Evaluate build vs. buy or vendor integration options
+Co-lead technical roadmap tracks with eng leadership
+Ensure scalability and performance align with product goals
+";"	Terraform / AWS Console (read-only) – Review infra structure
+	Architecture Decision Records (ADR) – Documenting technical rationale
+	Feature Flags (LaunchDarkly) – Manage rollouts & risk
+	Engineering Dashboards – Track velocity & stability
+
+";"	Book: “Inspired” by Marty Cagan (Tech chapters)
+	Course: Reforge Tech-Enabled PM Track
+	Video: Martin Fowler’s talks on architecture evolution
+🌱 Growth Recommendations:
+Lead eng trade-off discussions in roadmap rituals
+Build shared product-tech KPI dashboards
+Create a tech strategy presentation for non-technical teams
+";
+;;5;You shape cross-functional strategy grounded in architectural awareness and futureproofing. You influence hiring, systems design, and platform-level investments.;"CTO/CPO alignment on long-term bets
+InfoSec enforces compliance requirements
+Principal Engineers model cross-org system blueprints
+
+";"Influence system architecture trade-offs tied to business goals
+Co-own platform/product boundaries with CTO or principal engineers
+Define scale readiness, data privacy, or performance principles
+Represent product vision in architectural steering meetings
+
+";"System Design Diagrams (C4, Archimate) – To guide platform scope
+Board-level infra strategy decks (Figma + Notion/Slide)
+Open Telemetry, Observability Dashboards – Strategy-linked monitoring
+Product Quality Metrics – Latency, errors, performance KPIs
+";"	Book: “Team Topologies”; “Accelerate” (DevOps research)
+	Course: CTO Academy – Strategic Tech Fluency
+	Podcast: Software Engineering Daily (non-technical PM episodes)
+🌱 Growth Recommendations:
+Create business case for platform evolution
+Document cross-product tech needs and communicate them upstream
+Coach PMs on how to read architecture diagrams
+";
+Data Literacy;Data literacy for product managers is the ability to access, interpret, question, and apply data to drive product decisions. It spans from reading dashboards to defining meaningful metrics, running experiments, and storytelling with data.;1;Understand the importance of data and begin exploring how metrics are used in product decisions.;"Analysts explain basic metrics; Designers validate UI usage
+Engineers implement tracking tags and events
+Marketing defines campaign performance metrics
+";"Read dashboards for active user metrics
+Understand what KPIs are tracked by the team
+Shadow others reviewing metrics during retrospectives
+Take notes on what metrics show success or failure
+";"Google Analytics (read-only) – Review traffic
+Amplitude or Mixpanel (view dashboards) – Understand user flows
+Looker/Tableau (view-only) – Observe product trends
+Excel/Google Sheets – Learn basic calculations
+";"	Article: What Makes a Good Metric (Amplitude blog)
+	Video: Data-Driven Decision Making (Product School)
+	Template: PM KPI Starter Pack
+🌱 Growth Recommendations:
+Write 3 key metrics your team tracks and why
+Try creating a manual funnel with data from GA or Amplitude
+Ask analysts how data is defined and structured
+";
+;;2;Use data dashboards confidently, define simple metrics, and derive basic insights to inform product decisions.;"Analysts help build custom dashboards
+Engineers instrument tracking
+CS/Support give qualitative data that can be quantified
+";"Pull and interpret funnel/drop-off data
+Track experiment outcomes (success/failure, lift %)
+Collaborate on KPI definitions for features
+Use data to back up prioritization and iteration plans
+";"Mixpanel / Amplitude (dashboards, cohorts)
+SQL basics via Metabase or BigQuery
+A/B testing tools (Optimizely, Firebase)
+Google Sheets (tracking metrics manually)
+";"	Book: “Lean Analytics”; Course: SQL for PMs (DataCamp)
+	YouTube: Funnel Analysis Explained Simply
+	Worksheet: Feature Impact Log
+🌱 Growth Recommendations:
+Create your own dashboard
+Define success metrics before every launch
+Run a cohort analysis and present it to your team
+";
+;;3;Design and track your product’s key metrics end-to-end, identify opportunities through data, and lead decisions based on insights.;"Data engineers manage event pipelines
+Analysts model customer behavior
+Marketing and PMM define metrics for launches
+";"Design event tracking plans
+Create dashboards used by the team and leadership
+Identify anomalies or trends and take action
+Translate business goals into measurable outcomes
+";"Amplitude (custom dashboards, retention & engagement)
+SQL (Metabase, Redshift, Snowflake)
+Heap (auto-capture), PostHog
+Klipfolio, Looker (exec dashboards)
+";"	Book: “Measure What Matters” (OKRs); “How to Lie with Statistics”
+	Course: A/B Testing Mastery (Reforge); SQL crash courses
+	Template: North Star Metric Canvas
+🌱 Growth Recommendations:
+Lead a post-launch analysis with full impact metrics
+Define leading and lagging indicators for your team
+Run an “insights to iteration” retro with cross-functional peers
+";
+;;4;Own the design of scalable data practices across teams, define experimentation strategy, and coach others on data fluency.;"Analysts standardize metric definitions
+Engineering leads evaluate performance impact
+UX researchers triangulate quant + qual signals
+";"Set up experimentation roadmap
+Define global metrics framework (OKRs → KPIs → events)
+Standardize dashboards and tracking for multiple teams
+Guide non-data-savvy teammates in interpreting insights
+";"Optimizely, LaunchDarkly (experimentation)
+Data warehouses (BigQuery, Snowflake)
+Internal BI tools (Mode, Tableau Server)
+Amplitude Taxonomy Tool or Segment Tracking Plan
+";"	Book: “Thinking with Data” (Max Shron);
+	Playbook: Spotify’s North Star Metrics;
+	Reforge: Metrics & Instrumentation Track
+🌱 Growth Recommendations:
+Run quarterly KPI reviews; audit metrics health
+Build reusable templates for launch success tracking
+Lead cross-team workshops on experimentation design
+";
+;;5;Drive strategic decisions through data synthesis, influence C-level with insight narratives, and shape data culture at the org level.;"CPO reviews metrics at board; CFO relies on forecasts
+Growth and Strategy teams model opportunity spaces
+Engineering invests in observability based on PMs’ inputs
+";"Align product strategy to top-line metrics (LTV, CAC, ARR)
+Define investment bets based on multi-dimensional insights
+Influence budget and org priorities via data-backed models
+Shape a culture of evidence over opinion
+
+";"KPI dashboards (Tableau, Power BI, Google Data Studio)
+Forecasting models (Excel + Python/SQL)
+Executive reporting templates (Notion, Pitch)
+Churn, LTV, NPS dashboards (SurveyMonkey, ProfitWell)
+";"	Book: “Competing on Analytics”;
+	Case Studies: Airbnb Metrics Framework, Atlassian Data Operating Model
+	Masterclass: Data-Driven PM (Lenny’s Newsletter or Reforge)
+🌱 Growth Recommendations:
+Present data narratives at company-wide reviews
+Define a data success culture charter with stakeholders
+Partner with execs on data interpretation & strategy pivots
+";
+Design & UX;"UX & Design in product management refers to the PM’s ability to understand, advocate for, and collaborate on user-centered design. This includes everything from recognizing the value of good UX, to actively shaping experience flows, to driving product strategy with design innovation.
+";1;Recognize the impact of UX and design on product success and begin engaging in basic design conversations.;"Designers present mockups and concepts
+Researchers share usability findings
+Developers explain UI feasibility constraints
+";"Attend design reviews
+Ask questions about user flows and layout decisions
+Read customer feedback and usability notes
+Learn to describe product UI in user-centric terms
+";"Figma (view-only) – Browse design files
+Miro (view user journey maps) – Understand flows
+Loom / Google Slides – Watch design presentations
+Feedback tools (e.g., Hotjar summaries) – Observe user behavior
+";"	Book: “Don’t Make Me Think” (Steve Krug)
+	Video: UX Crash Course (DesignCourse YouTube)
+	Article: UX Basics for PMs (UX Collective)
+🌱 Growth Recommendations:
+Join usability test sessions
+Map out one user journey
+Shadow a designer creating wireframes
+";
+;;2;Collaborate with designers during the solution phase and advocate for consistent, accessible, and usable design patterns.;"Designers create flows and wireframes
+Devs flag feasibility or performance issues
+QA checks design-implementation fidelity
+";"Define acceptance criteria with UX elements
+Clarify user personas and success criteria
+Participate in design QA
+Use journey mapping in discovery
+";"Figma (comment, inspect, tag) – Give structured feedback
+Notion / Confluence (design specs) – Document expectations
+Design Systems (Material, Polaris) – Understand component behavior
+Miro (journey mapping, user empathy)
+";"	Book: “Hooked” (Nir Eyal) – Habit-forming product design
+	Course: Interaction Design Foundation – UX for PMs
+	Guide: Apple Human Interface Guidelines / Material Design Docs
+🌱 Growth Recommendations:
+Facilitate your first design ideation session
+Review analytics on design performance (clicks, drop-offs)
+Learn basic accessibility principles
+";
+;;3;Own the experience vision for your product area, drive user-first feature design, and bridge user needs with technical and business constraints.;"UX researchers validate flow choices
+Engineers work on micro-interactions or performance
+CX team aligns voice of customer to usability
+";"Co-lead design sprints
+Define MVP flows with UX acceptance standards
+Use usability findings to iterate on features
+Manage scope without compromising UX value
+";"Maze, Hotjar, FullStory – Track user behavior
+FigJam / Miro – Co-create flows with stakeholders
+Design Tokens / Components – Ensure scalable design handoffs
+Airtable or Notion – Prioritize UX debt
+";"	Book: “The Design of Everyday Things” (Don Norman)
+	Course: Design Sprint Masterclass (AJ&Smart)
+	Podcast: Design Better by InVision
+🌱 Growth Recommendations:
+Run a post-launch UX improvement sprint
+Write a “UX Principles” doc for your product area
+Track UX KPIs (task time, error rate, satisfaction)
+";
+;;4;Create scalable UX processes, improve cross-discipline collaboration, and shape cohesive design systems or philosophies across the product.;"Design leads manage system components
+Product Ops optimize design handoffs
+Support & Sales share real-world UX gaps
+";"Define UX debt strategy across products
+Drive accessibility and internationalization standards
+Align product roadmaps with UX evolution
+Facilitate multi-team alignment on experience goals
+";"DesignOps boards (Asana, Jira) – UX task tracking
+Accessibility testing tools (Lighthouse, Stark)
+Cross-team UX audits (Airtable, Notion)
+Figma Plugins – Linting, accessibility, copy, etc.
+";"	Book: “Org Design for Design Orgs”
+	Course: Nielsen Norman Group – UX Maturity
+	Case Studies: Atlassian Design Principles, Airbnb Design Language
+🌱 Growth Recommendations:
+Lead quarterly UX reviews across squads
+Propose UX OKRs for your org
+Co-create design ops rituals with UX team
+";
+;;5;Own experience strategy at the org level, embed UX thinking in company priorities, and lead vision-setting through human-centered design.;"CPO/CXO align design with product/brand vision
+Research leads synthesize directional insights
+Legal and policy shape inclusive, compliant experiences
+";"Evangelize customer-centric product narratives
+Lead cross-org experience North Star definition
+Influence hiring for experience-centered roles
+Champion long-term UX investments
+";"Experience vision decks (Pitch, Keynote, Figma)
+UX maturity assessments
+Persona development frameworks
+Experience scorecards (internal tooling or custom dashboards)
+";"	Book: “Change by Design” (IDEO)
+	Case Study: GOV.UK Design Principles, Shopify Polaris
+	Masterclass: Design Leadership (Rosenfeld Media)
+🌱 Growth Recommendations:
+Host design-forward strategy sessions with execs
+Document UX as a strategic asset in roadmaps
+Launch org-wide UX health benchmark program
+";
+GTM & Marketing;GTM & Marketing in product management is about planning, aligning, and executing how the product reaches and resonates with its target audience. This includes launch strategy, messaging, positioning, sales enablement, pricing collaboration, and measuring success post-launch.;1;Understand what a product launch is and how marketing supports user awareness and adoption.;"PMM writes messaging and comms
+Marketing sets up campaign tracking
+Sales shares feedback on lead quality or objections
+";"Attend launch or campaign retrospectives
+Read previous launch plans and checklists
+Learn key marketing concepts: ICP, funnel, positioning
+Understand the roles of PMM, sales, and growth teams
+";"	Trello / Notion (read GTM checklist)
+	Google Docs (view launch messaging drafts)
+	Hubspot / Mailchimp (campaign basics)
+	Google Analytics (traffic source awareness)
+
+";"	Book: “Obviously Awesome” (April Dunford)
+	Blog: PMM Alliance, First Round Review on PMM
+	Video: Intro to Product Marketing (Product School)
+🌱 Growth Recommendations:
+Join a GTM planning call
+Map out a competitor’s marketing funnel
+Ask PMM to explain positioning and value props
+";
+;;2;Support product launches with clear messaging, help identify target segments, and measure basic GTM effectiveness.;"Growth marketing sets up ads or landing pages
+PMM and PM align on value proposition and benefits
+Customer support prepares FAQs and help center updates
+
+";"Write internal release notes and GTM briefs
+Contribute to product messaging and positioning
+Review onboarding flow from a user perspective
+Align launch timing with readiness and campaigns
+";"Canva / Figma (light asset feedback)
+HubSpot / Mixpanel (measure traffic & usage)
+Loom (record feature walkthroughs)
+Notion / Confluence (collaborate on launch docs)
+";"	Course: Reforge – Product Marketing Foundations
+	Book: “Made to Stick” (Heath brothers)
+	Checklist: Product Launch Playbook (Notion template)
+🌱 Growth Recommendations:
+Run a retrospective on a small release
+Track adoption metrics post-launch
+Work with PMM to segment early adopters
+";
+;;3;Own the GTM planning for your product area, align internal stakeholders, and drive cross-functional execution of launches.;"PMM leads outbound messaging and PR
+Customer success aligns customer stories or reference programs
+Engineering coordinates tech readiness and flags
+";"Create GTM briefs with messaging, audience, channels, and timing
+Align release plan with support, sales, marketing, and legal
+Define pre/post launch success metrics
+Tailor adoption playbooks per user persona
+";"Asana / Jira (GTM project tracking)
+LaunchDarkly / split.io (feature rollout flags)
+Intercom / Drift (in-product announcements)
+Amplitude (measure engagement by campaign)
+";"	Guide: Notion’s “Launch GTM Strategy”
+	Book: “Crossing the Chasm”
+	Webinar: SaaStr Launch Strategy for B2B SaaS
+🌱 Growth Recommendations:
+Run end-to-end GTM for a major release
+Build reusable GTM checklist templates
+Co-own adoption KPIs with PMM or Sales
+";
+;;4;Build and scale repeatable GTM practices across products or teams, ensuring consistent positioning and operational excellence.;"Revenue ops build sales/marketing playbooks
+Design creates templates for launch visuals
+PMM conducts voice-of-customer synthesis to sharpen messaging
+";"Standardize GTM processes across the product portfolio
+Run cross-functional launch calendars
+Define messaging frameworks used org-wide
+Mentor others on launch and positioning best practices
+";"	GTM Launch Hubs (Notion / Airtable)
+	Positioning Canvas (Miro / FigJam)
+	Executive Brief Templates (Pitch / Google Slides)
+	CRM tools (Salesforce, Pipedrive) – Messaging enablement
+
+";"	Book: “Play Bigger” – Category design
+	Course: Reforge – Go-to-Market & Growth Loops
+	Article: Intercom's Launch Strategy & Customer Narratives
+🌱 Growth Recommendations:
+Run a GTM health audit across your org
+Establish tiered launch levels with matching effort
+Facilitate cross-product launch alignment meetings
+";
+;;5;"Shape the go-to-market and product positioning strategy at a portfolio or company level; align product vision with long-term brand and market differentiation.";"C-Level sets revenue and market expansion goals
+Finance/RevOps link GTM to commercial planning
+Brand/Design guides long-term product perception
+";"Co-define strategic bets and market entry plans
+Partner with CMO on branding, messaging pillars
+Influence pricing/packaging through customer insights
+Champion voice-of-customer into roadmap themes
+";"	Strategic dashboards (Tableau, Looker) – Measure GTM impact
+	Pricing calculators (custom tooling or spreadsheets)
+	Positioning frameworks (e.g., April Dunford’s framework)
+	Storytelling templates (Figma, Pitch)
+
+";"	Book: “Influence” (Robert Cialdini)
+	Case Studies: Stripe, Figma, Notion GTM evolution
+	Masterclass: Brand-Led GTM Strategy (First Round Capital)
+🌱 Growth Recommendations:
+Create a strategic narrative that connects roadmap to customer needs
+Lead a cross-org GTM council
+Run experiments for new markets or buyer personas
+";
+Pricing & Revenue Strategy;Pricing & Revenue in product management refers to a PM’s ability to contribute to and influence the pricing strategy, monetization model, packaging, and overall revenue potential of a product. It includes understanding business models, pricing experimentation, unit economics, and collaboration with sales, finance, and marketing.;1;Become familiar with your product’s pricing model and how it contributes to the business.;"Sales explains deal structuring and objections
+Finance provides revenue model overviews
+PMM defines how pricing is communicated to customers
+";"Understand the current pricing structure (e.g. free, freemium, tiered)
+Learn how the company makes money from the product
+Read pricing pages and competitor pricing
+Attend pricing-related meetings as an observer
+";"Company pricing sheet (Notion, Confluence)
+Google Sheets (simple pricing breakdowns)
+Competitor analysis tools (G2, Capterra)
+Sales enablement decks (read-only)
+";"	Article: Intro to SaaS Pricing Models
+	Book: “Monetizing Innovation” (Madhavan Ramanujam)
+	Blog: ProfitWell and OpenView Partners pricing guides
+🌱 Growth Recommendations:
+Interview a sales or support rep about pricing objections
+Map out pricing tiers for your product and competitors
+Join a pricing workshop or webinar
+";"The Pricing & Revenue domain directly overlaps with core responsibilities of Growth Product Managers, and increasingly with Strategic PMs and PMs with P&L ownership. Let me map this out for clarity and show how you can position this domain in your PM Scope framework:
+
+🧭 Why Pricing & Revenue Is Central to Growth and Strategic PM Work
+🔗 Key Role Overlaps
+Role Type
+How Pricing & Revenue Applies
+Growth PM
+Optimizes monetization, runs pricing experiments, improves conversion, activation, retention, and LTV.
+Strategic PM
+Aligns pricing and revenue streams with long-term business strategy, defines market differentiation.
+Product Leader / GM
+Owns P&L, defines the monetization roadmap, integrates pricing with cross-functional plans.
+Platform PM
+Sets internal usage quotas/pricing for API-based or multi-tenant systems.
+
+
+🏗 How to Integrate This into PM Scope
+1. Rename or Subtitle the Domain (if needed):
+To make it clearer that this is about monetization strategy and not just “putting price tags,” consider:
+Pricing & Monetization
+Revenue Strategy
+Monetization & Growth Strategy
+2. Reinforce the Link to P&L
+Add to the Grade 4–5 activities:
+Grade 4: “Analyze full customer acquisition cost (CAC) vs lifetime value (LTV), gross margin by segment, and suggest roadmap trade-offs to improve unit economics.”
+Grade 5: “Own P&L for a product line; drive cross-departmental initiatives that directly influence revenue and profitability.”
+3. Tie It to Strategy and Execution
+Add cross-links to:
+Strategy & Vision → pricing as a strategic moat
+Execution & Delivery → pricing affects feature prioritization
+Customer Discovery / Market Discovery → understand value perception and willingness to pay
+
+💡 Bonus: PM Toolkit for Pricing-Powered Growth
+Here are tools and frameworks a PM should grow into:
+Level
+Tools & Models
+L1–2
+Tiered pricing examples, simple ROI calculators
+L3
+Feature usage tracking + basic churn/retention analytics (Mixpanel, Amplitude)
+L4
+Unit economics dashboards (e.g., CAC, LTV, Payback) via Looker / Tableau
+L5
+Scenario modeling tools, pricing simulation spreadsheets, B2B discounting strategy, PLG funnels
+
+
+📈 Final Thought: Product-Led Growth & Revenue PMs
+This domain becomes a core driver of strategic influence in Product-Led companies — where pricing and product are tightly coupled, and experiments in onboarding, freemium tiers, packaging, and virality loops directly impact revenue.
+"
+;;2;Participate in pricing discussions and support small changes to pricing, packaging, or monetization models.;"PMM drafts messaging for new tiers
+Legal/Compliance reviews contract language
+CS team flags friction or confusion due to pricing
+";"Contribute to packaging decisions (what goes in each plan)
+Support creation of pricing experiment hypotheses
+Collect feedback from customers and stakeholders about value perception
+Work with marketing on pricing page clarity
+";"	Pricing calculators (basic models in Sheets)
+	SurveyMonkey / Typeform (value-based pricing surveys)
+	Feature flagging tools (LaunchDarkly, Split)
+	Mixpanel / Amplitude (feature usage by plan)
+
+";"	Book: “The Psychology of Price” (Leigh Caldwell)
+	Video: Value-based pricing (ProfitWell YouTube)
+	Guide: Figma’s pricing evolution case study
+🌱 Growth Recommendations:
+Co-design a feature gating strategy by pricing tier
+Present a pricing tweak proposal to PMM or finance
+Map cost-to-serve vs willingness to pay
+";
+;;3;Own pricing decisions for your product area, run pricing experiments, and align pricing with customer value and business goals.;"Finance models CAC, LTV, and margin impact
+Sales builds tailored enterprise proposals
+Product Ops helps track monetization metrics
+";"Define and test new monetization models (e.g. usage-based, seat-based)
+Analyze unit economics and pricing elasticity
+Own pricing page content and logic
+Collaborate with finance to model revenue projections
+";"	Pricing experiment dashboards (Looker, Tableau)
+	A/B testing tools for pricing (e.g. Google Optimize)
+	Revenue forecasting spreadsheets or BI tools
+	CRM integrations (HubSpot, Salesforce)
+
+";"	Book: “The Lean Product Playbook” (Dan Olsen)
+	Course: Pricing for Product Managers (Udemy, Reforge)
+	Tool: Price Intelligently's Pricing Audit Toolkit
+🌱 Growth Recommendations:
+Lead a pricing A/B test and analyze impact
+Publish a learnings doc from packaging changes
+Partner with sales to improve discounting structure
+";
+;;4;"Design scalable pricing systems, optimize monetization for profitability, and align pricing with strategic market positioning.
+
+";"Legal and Ops support contract automation
+Finance automates revenue recognition tracking
+Marketing aligns campaigns with new pricing narratives
+
+";"Define monetization strategy by persona, use case, or segment
+Partner with C-level on pricing architecture
+Create frameworks for pricing experimentation
+Evaluate revenue trade-offs for roadmap decisions
+";"Advanced pricing calculators (incl. margins, churn models)
+ProfitWell / Baremetrics dashboards
+ERP/CPQ integrations (e.g. Zuora, Stripe)
+Business model canvases and revenue trees
+";"	Book: “Pricing with Confidence” (Reed Holden)
+	Case Study: Slack’s pricing redesign
+	Workshop: Monetization Strategy Bootcamp (Reforge)
+🌱 Growth Recommendations:
+Facilitate org-wide monetization retros
+Create training for sales on pricing rationale
+Build and test long-term pricing roadmap scenarios
+";
+;;5;"Own the pricing and revenue strategy at company or portfolio level, driving market differentiation and sustainable business growth.
+
+";"CFO and FP&A manage revenue runway and targets
+CMO translates pricing into brand narrative
+Enterprise Sales adapts monetization for strategic accounts
+
+";"Align product strategy with financial targets
+Co-own pricing narrative with CPO and CFO
+Evaluate global pricing and localization strategy
+Shape category-defining packaging or pricing innovations
+
+";"Forecasting platforms (Anaplan, Adaptive Insights)
+Multi-region pricing tools
+Executive dashboards for revenue KPIs
+Customer behavior analysis (via Segment, Snowplow)
+";"	Book: “Blue Ocean Strategy”
+	Report: OpenView Product-Led Growth Benchmarks
+	Case Studies: Notion, Atlassian, Canva monetization pivots
+🌱 Growth Recommendations:
+Present pricing impact at board meetings
+Pilot entirely new monetization model (e.g. freemium → paid tiering)
+Publish internal pricing strategy documentation
+";
+People Management;People Management in product management involves leading other individuals (PMs or cross-functional contributors), fostering growth, enabling performance, resolving conflict, and setting a strong example of leadership, mentorship, and alignment within a team or department.;1;Recognize what good people management looks like. Start learning how teams are structured and supported.;"Engineering managers conduct 1:1s and performance reviews
+Team leads create growth plans for ICs
+Scrum Masters or PMMs facilitate collaboration
+";"Observe team dynamics and management behaviors
+Reflect on your own working style and how others lead
+Begin informal mentoring (e.g. interns, juniors)
+Support onboarding of new colleagues
+";"Notion / Confluence (team handbooks, onboarding guides)
+Google Docs (shared knowledge areas)
+Slack (observe team culture and async management cues)
+";"	Book: “Thanks for the Feedback” – Douglas Stone
+	Course: “Foundations of People Leadership” (LinkedIn Learning)
+	Video: “How to Onboard New Team Members” (PM YouTube)
+🌱 Growth Recommendations:
+Shadow a people manager in team rituals
+Document 3 positive management behaviors you admire
+Volunteer to mentor a junior team member or intern
+";
+;;2;Begin to take ownership of small people leadership responsibilities and practice coaching or team facilitation.;"Tech leads delegate and grow ICs
+Design leads set creative feedback loops
+HR supports feedback and performance calibration
+";"Mentor other PMs or cross-functional contributors
+Facilitate meetings with inclusive participation
+Provide clear, actionable feedback to team members
+Help resolve low-stakes conflict or miscommunication
+";"Lattice / CultureAmp (peer feedback)
+Calendly / Fellow (for 1:1 scheduling & agendas)
+Retrospective tools (Parabol, EasyRetro)
+";"	Book: “Radical Candor” – Kim Scott
+	Course: Reforge Manager Track: Foundations
+	Template: Mentorship planning worksheet
+🌱 Growth Recommendations:
+Run a cross-functional retro or onboarding session
+Write growth plans with mentees
+Facilitate a feedback exchange with peers
+";
+;;3;Independently manage other PMs or ICs, focusing on performance, development, alignment, and accountability.;"EMs co-manage delivery with you
+HR supports promotion/compensation cycles
+Directors align management across functions
+";"Conduct 1:1s and performance check-ins
+Set and track growth goals for direct reports
+Coach reports through challenging product situations
+Manage PM workload distribution and prioritization
+";"	Lattice (performance reviews & career tracks)
+	Miro (skill maps, team structure)
+	Notion (individual growth dashboards)
+	Jira / Roadmunk (resource allocation tracking)
+
+";"	Book: “The Manager’s Path” – Camille Fournier
+	Workshop: Career Ladder Calibration for PMs
+	Checklist: PM Career Framework by Amplitude or Atlassian
+🌱 Growth Recommendations:
+Lead hiring or promotion process for a PM
+Create or update your team’s PM ladder
+Track team-wide growth metrics (velocity, ownership)
+";
+;;4;"Build and evolve product teams; foster a healthy, high-performing team culture and drive hiring strategy.";"HR partners on org health and attrition
+Product Ops builds team OKRs and cadences
+Directors coordinate headcount planning
+";"Design team structure and career levels
+Plan and lead hiring for new roles
+Resolve team-level conflicts or performance issues
+Create a recognition and growth culture
+";"Greenhouse / Lever (interview loops, candidate tracking)
+Loom (async onboarding or welcome guides)
+Confluence / Notion (team playbooks, PM craft guides)
+Mentorship tools (Chronus, Together Platform)
+";"	Book: “Team Topologies” – Skelton & Pais
+	Course: First Round “Managing PMs at Scale”
+	Video: Building PM Teams (Google / Atlassian)
+🌱 Growth Recommendations:
+Hire and onboard 2+ new team members
+Design a competency rubric for PM team
+Start internal PM onboarding academy or training series
+";
+;;5;Define and lead the product organization’s talent strategy, including hiring philosophy, performance culture, and leadership development.;"VP Product aligns org design with business model
+CPO defines product talent brand
+HR leads DEI, retention, and performance design
+";"Design and evolve the PM career framework
+Run succession planning and talent reviews
+Build a scalable performance feedback culture
+Serve as executive mentor for PMs across org
+";"	HRIS systems (BambooHR, Personio)
+	Executive feedback tools (TinyPulse, Officevibe)
+	OKR dashboards for people leadership KPIs
+	Career coaching platforms (BetterUp, Torch)
+
+";"	Book: “Multipliers” – Liz Wiseman
+	Program: Executive PM Coaching (SVPG, Reforge)
+	Playbooks: Product Leadership Frameworks by Intercom or Meta
+🌱 Growth Recommendations:
+Create a PM succession plan for your org
+Coach other managers on people leadership
+Facilitate org-wide career progression recalibration
+";
+Leadership;Leadership in product management means setting a direction, influencing decisions, owning outcomes, and enabling cross-functional teams — with or without direct authority. It involves proactive ownership, decision clarity, confidence under uncertainty, and being a driving force behind product momentum.;1;Begin to observe leadership dynamics and reflect on how influence and ownership play out within the team.;"Tech leads drive sprint execution
+Designers lead design critiques
+Project managers facilitate team syncs
+";"Participate actively in meetings and retros
+Take ownership of small initiatives or tasks
+Share thoughtful suggestions with rationale
+Ask clarifying questions to understand the “why”
+";"Slack (visibility in threads and updates)
+Confluence/Notion (add comments, questions)
+Miro (contribute to roadmapping or user flow discussions)
+";"	Book: “Start With Why” – Simon Sinek
+	Blog: PM’s Guide to Influence Without Authority (Mind the Product)
+	Course: Leading Without Authority (LinkedIn Learning)
+🌱 Growth Recommendations:
+Volunteer to lead a retrospective
+Write a decision doc or summary after a team meeting
+Ask for feedback on your initiative and ownership
+";"Where and Why They Overlap
+Domain
+Overlaps With…
+Why the Overlap Exists
+Execution
+Prioritization, Communication, Leadership
+PMs can’t execute without communicating priorities and leading people toward goals.
+Prioritization
+Execution, Growth, Communication
+Priorities shape what gets done — and growth often depends on good prioritization.
+Communication
+All others
+Clear communication is the glue — nothing works without it.
+Growth
+Strategy, Execution, Prioritization
+Growth PMs rely on experiments, prioritization, and swift execution.
+Leadership
+Execution, Communication, People Mgmt
+Leadership shows up in how PMs rally others to execute, adapt, and inspire clarity.
+
+
+🧠 How to Differentiate Them in PM Scope
+Domain
+Focuses On…
+Example Differentiator
+Execution
+Turning plans into delivered outcomes
+Ownership of delivery, velocity, follow-through
+Prioritization
+Choosing what matters most and why
+Ability to make trade-offs, manage input chaos, align on value
+Communication
+Making ideas, plans, and trade-offs clear and resonant
+Tailoring messages to teams, execs, users
+Growth
+Driving user acquisition, retention, monetization
+Experimentation mindset, funnel thinking, product-led growth
+Leadership
+Inspiring direction, building trust, driving accountability
+Owning decisions, navigating ambiguity, setting vision
+
+
+🎯 Practical Tip in Your Framework
+Use contextual examples and distinct activities per domain, especially in the Activities, Focus, and Tool Use rows.
+Allow multi-domain anchoring for activities like: “Framing a trade-off and gaining buy-in to ship a scaled-down MVP” This touches prioritization, communication, and execution, but you can emphasize different angles depending on the domain. 
+
+✅ What This Means for PM Scope
+Instead of trying to eliminate overlap, embrace it — and:
+Define the core intent of each domain clearly.
+Show how a single activity may live across multiple domains.
+Use growth recommendations to guide PMs on which area to strengthen next.
+
+Leadership vs. Cross-Functional Leadership
+❓Should Cross-Functional Leadership Be a Separate Domain?
+Let’s compare:
+Aspect
+Leadership (Current Domain)
+Cross-Functional Leadership (Proposed)
+Definition
+Owning direction, influencing decisions, leading beyond authority
+Driving alignment and collaboration across functions
+Scope
+Internal ownership, product bets, vision delivery
+Synchronizing across Eng, Design, Marketing, Sales, Legal
+Overlap
+High — includes some cross-functional elements
+Could be considered a subset or a deeper dive of “how”
+Unique Value?
+Strategic ownership, vision clarity, presence
+Operational collaboration, team rituals, multi-stakeholder syncs
+Risk of Duplication
+Yes — unless refocused to emphasize org integration & rituals
+Could be merged into Execution + Leadership unless reframed
+
+🔍 My Recommendation:
+✅ Keep ""Leadership"" as is (strategic influence, vision, ownership) ✅ Integrate cross-functional specifics into:
+Execution & Delivery → for day-to-day rituals, sprint alignment
+Stakeholder Collaboration → for stakeholder syncs and alignment 🆕 Optionally: create a meta-layer called ""Collaboration & Leadership"", combining leadership, stakeholder management, and x-functional alignment.
+"
+;;2;Start taking initiative, owning product decisions, and aligning teams through clarity and shared purpose.;"Engineers support technical trade-off framing
+UX designers push forward user needs
+Marketing supports GTM alignment
+";"Lead features or MVP scoping end-to-end
+Frame decisions for the team with trade-offs
+Influence prioritization through data and stakeholder input
+Drive initiatives forward amidst ambiguity
+";"Decision logs (Notion or Google Docs)
+Miro (own collaborative roadmaps)
+Jira (define and track feature tickets)
+";"	Book: “Drive” – Daniel Pink
+	Talk: Gaining Product Influence (Shreyas Doshi)
+	Course: Influence and Prioritization (Product School)
+🌱 Growth Recommendations:
+Lead a roadmap prioritization workshop
+Facilitate alignment among engineering, design, and stakeholders
+Frame and communicate at least 2 high-impact decisions per quarter
+";
+;;3;Lead by example across teams and drive product outcomes with confidence, ownership, and influence.;"Sales leads shape customer messaging based on product trajectory
+Product Ops supports delivery metrics
+Customer Success aligns account expectations
+";"Define product bets and defend them with conviction
+Unblock teams and remove ambiguity
+Influence across departments without formal reporting lines
+Rally teams behind a shared vision
+";"Decision frameworks (RICE, DACI, SPADE)
+Product vision decks (Google Slides, Pitch)
+Feedback systems (UserVoice, Productboard)
+
+";"	Book: “The Making of a Manager” – Julie Zhuo
+	Workshop: Leading Roadmap Change Without Drama
+	Resource: Stripe Docs – “How Decisions Are Made”
+🌱 Growth Recommendations:
+Run a cross-functional postmortem on a failed initiative
+Launch a product bet with strong narrative and trade-off docs
+Mentor a junior PM on ownership mindset
+";
+;;4;Drive leadership at the organizational level, shaping strategy, culture, and execution alignment across multiple teams.;"Directors of Eng/Design set delivery/UX strategy
+GTM leaders coordinate launches
+C-level sponsors steer long-term direction
+";"Align product and business strategies with execs
+Lead multi-quarter initiatives across departments
+Establish team rituals and cultural leadership norms
+Own org-level risk mitigation or escalation frameworks
+";"OKR tools (Koan, Ally, Perdoo)
+Cross-team dashboards (Tableau, Amplitude)
+Templates for long-term bets and milestone planning
+";"	Book: “Good Strategy Bad Strategy” – Richard Rumelt
+	Program: Reforge Advanced Strategy or Product Leadership
+	Talk: Leadership in Scaling Product Orgs (Lenny Rachitsky)
+🌱 Growth Recommendations:
+Build an org-wide decision-making rubric
+Sponsor a new initiative cross-functionally
+Run an org-wide alignment or planning offsite
+";
+;;5;Provide visionary leadership that shapes the direction of the company and inspires teams through strategy, clarity, and resilience.;"CEO, CPO set vision and funding priorities
+CFO aligns budgets with product bets
+HR/People leaders support org design
+";"Define long-term strategy and positioning
+Influence board-level discussions or investor narratives
+Sponsor cultural or organizational change
+Build a leadership bench and succession path
+
+";"Vision decks for board and company (Figma, Pitch)
+Strategic investment frameworks (McKinsey, Bain models)
+Org development tools (CultureAmp, Lattice benchmarks)
+";"	Book: “Playing to Win” – A.G. Lafley
+	Program: SVPG’s Empowered Product Leader
+	Talk: Building Vision and Conviction at Scale (Brian Balfour)
+🌱 Growth Recommendations:
+Set 3+ year strategic goals with measurable impact
+Guide leadership team alignment rituals
+Lead cultural initiatives across the product org
+";
+Domain Expertise;Domain Expertise is the product manager’s understanding of the industry or vertical they’re building for — including its customer behavior, business models, regulations, constraints, success metrics, and nuances. This depth enables better product decisions, trust with stakeholders, and faster impact.;1;Become familiar with the industry, terminology, and business model.;"Sales & support share pain points and use cases
+QA flags domain-specific edge cases
+Legal may flag compliance risks
+";"Learn basic customer personas
+Understand key terms and acronyms
+Attend team demos or onboarding sessions
+Read customer-facing docs and support tickets
+";"Internal wikis (Confluence, Notion)
+Customer call recordings (Gong, Zoom)
+Domain glossaries (Google Docs, CRM)
+";"	Company onboarding material
+	Book: “Understanding [Industry] 101” (industry-dependent)
+	Blogs from competitors, analyst firms (Gartner, CB Insights)
+🌱 Growth Recommendations:
+Shadow 2–3 customer calls
+Write a glossary of key terms
+Create a 1-pager on the business model
+";
+;;2;Understand customer workflows, pain points, and business goals within the domain.;"Product marketing creates persona-based campaigns
+Designers uncover nuanced behaviors
+Legal advises on domain-specific limits (GDPR, HIPAA, etc.)
+";"Contribute ideas grounded in domain knowledge
+Spot edge cases or regulatory needs
+Map user flows and identify real-world constraints
+Collaborate closely with SMEs
+";"Journey mapping tools (Miro, Lucidchart)
+CRM (Hubspot, Salesforce) for persona insights
+Airtable or spreadsheets for industry analysis
+";"	Industry reports (Statista, McKinsey, Forrester)
+	Company competitor matrix
+	Course: Domain-specific certifications (e.g., ISO, PSD2)
+🌱 Growth Recommendations:
+Run a feature validation study with real users
+Map end-to-end user journeys
+Attend a domain-specific webinar or trade show
+";
+;;3;Make product decisions informed by nuanced domain expertise and customer understanding.;"Customer success tailors onboarding by vertical
+Engineering works on domain-specific architecture (e.g., EMR, bank APIs)
+";"Validate solutions based on domain logic
+Partner with SMEs or customers in beta programs
+Explain technical trade-offs with real-world domain impacts
+Drive product innovation through domain insight
+";"Knowledge base or CMS for SMEs
+AI tools (e.g., Perplexity) for competitive research
+Figma + domain examples for prototyping
+";"	Book: Industry whitepapers or technical guides
+	Podcasts by domain experts
+	Internal case studies on domain wins/losses
+🌱 Growth Recommendations:
+Co-present with SMEs in a customer demo
+Build a vertical-specific feature or module
+Mentor a new PM entering the domain
+";
+;;4;Be recognized internally as a go-to expert for domain insight, able to steer strategy accordingly.;"Sales aligns strategy to vertical ICPs
+CSMs create onboarding by industry
+Marketing builds verticalized messaging
+";"Define vertical-specific product strategies
+Lead cross-functional vertical initiatives
+Educate other teams on domain best practices
+Influence roadmap based on macro trends";"Market intelligence platforms (Crayon, SimilarWeb)
+Internal domain playbooks
+Quarterly vertical reviews (Slides, Notion)
+";"	Book: Deep-dive technical guides
+	Industry certifications (e.g., FinTech, MedTech, Automotive safety)
+	Advisory board or customer council insights
+🌱 Growth Recommendations:
+Host a domain training for other PMs
+Write an internal strategy brief per domain
+Support execs in client/partner discussions
+";
+;;5;Shape the future of the product category through deep domain vision and external presence.;"Execs use insights to drive investment decisions
+Analysts cite you in market positioning
+Strategic partnerships align to your roadmap
+
+";"Drive product innovation based on emerging industry shifts
+Represent company at conferences, panels, and publications
+Set long-term strategy based on domain disruption
+Advise leadership on partnerships, M&A, or new markets
+";"Competitive landscape maps
+Analyst briefings (Gartner, IDC)
+Industry databases and investment trend tools (PitchBook)
+
+";"	Books: Leading domain transformation works
+	Events: Speak at top industry conferences
+	Communities: Join expert panels or advisory boards
+🌱 Growth Recommendations:
+Publish thought leadership (LinkedIn, Medium, podcasts)
+Advise startups or incubators in your field
+Build a “future of the industry” roadmap
+";
+Market & Regional Insight;This domain refers to a PM’s ability to understand and act on regional and market-specific variables — including customer behaviors, cultural norms, local regulations, competitive dynamics, payment systems, and adoption patterns. It’s critical for product localization, international growth, and regulatory success.;1;Gain basic awareness of different market conditions and how they affect the product.;"Local marketing managers
+Support agents in local markets
+Legal team (local compliance)
+";"Recognize that markets differ (e.g., DACH ≠ APAC)
+Learn high-level facts about key regions
+Ask questions about customer behavior in other markets
+Attend internal enablement sessions (e.g., market overviews)
+";"Internal wikis with regional data
+Notion/Confluence glossaries or cheat sheets
+Localization platforms (e.g., Phrase, Lokalise) — awareness only
+";"Read country-specific UX studies (e.g., Nielsen Norman Group on Japan)
+Study McKinsey / BCG market reports
+Shadow customer calls across 2 regions
+";
+;;2;Understand how user behaviors, regulations, and competitors differ by region.;"Country managers
+Regional marketing or CX teams
+Local sales & onboarding reps
+";"Track local product feedback and pain points
+Participate in product localization planning
+Work with Sales/CS for insights on market fit
+Identify tech/local infrastructure challenges (e.g., payment, authentication)
+";"Google Trends (market interest)
+App Store reviews by region
+SurveyMonkey/Typeform for regional feedback
+";"Analyze competitors’ regional offerings
+Run a mini research study in one region
+Take LinkedIn Learning course: “Localization Strategy for PMs”
+";
+;;3;Effectively shape product decisions based on regional insight and cultural fluency.;"Regional business development
+Regulatory affairs/legal for country launches
+Local product marketers
+
+";"Localize features or flows to match regional behaviors
+Define success metrics per region
+Collaborate with legal/compliance for launch readiness
+Conduct regional pilots or beta programs
+";"Amplitude: segmented by country
+Google Analytics: geo behavior flows
+Custom dashboards: e.g., Germany vs France funnel
+";"Partner with cultural consultants (if available)
+Attend international PM forums (ProductTank Global)
+Benchmark with internal country GTM strategies
+";
+;;4;"Own strategy and product-market fit for specific regions; lead cross-functional market delivery.";"Country directors or GMs
+International product marketing managers
+Regional ops / legal / payments teams
+";"Build region-specific roadmap elements
+Own metrics like activation, conversion, or LTV by region
+Align with Sales and GTM leaders for regional growth
+Identify opportunity gaps and suggest market-specific innovation
+";"Looker/Tableau for regional performance analytics
+Internal Playbooks: market-entry and localization templates
+Geo-fenced feature rollout tools (e.g., LaunchDarkly, ConfigCat)
+
+";"Study localization success stories (Spotify, TikTok, Stripe)
+Read books like “The Culture Map” by Erin Meyer
+Host workshops to train team on regional considerations
+";
+;;5;Drive the company’s global product growth and define multi-region strategy as a core business lever.;"CPO / VP Product
+Head of International Expansion
+Chief Strategy Officer
+External partners (e.g., translators, consultants, regulators)
+";"Define market-entry frameworks
+Lead multi-country launches
+Shape cross-regional portfolio strategy
+Identify global synergies and local differentiators
+";"Internal expansion dashboards & OKRs
+Launch playbooks with cultural checklists
+Investor-grade market assessments
+";"Speak at or attend global product summits
+Run cross-region GTM bootcamps
+Join expansion roundtables or communities (e.g., Reforge Global PM)
+";
