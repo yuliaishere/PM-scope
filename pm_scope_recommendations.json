@@ -1,0 +1,941 @@
+{
+  "Execution & Delivery": {
+    "1": {
+      "current_state": "You're beginning to understand delivery basics and likely shadowing more experienced PMs. Your work may include small task ownership, Jira ticket review, and learning Agile rituals.",
+      "growth_recommendation": "Learn to manage small feature deliveries independently. Join retros, track sprint goals, and understand blockers.",
+      "book": "Scrum: The Art of Doing Twice the Work in Half the Time by Jeff Sutherland",
+      "follow": [
+        "@johncutlefish",
+        "@melissaperri"
+      ]
+    },
+    "2": {
+      "current_state": "You can now assist in planning and sprint execution. You're managing tasks under guidance and engaging more during retros.",
+      "growth_recommendation": "Start reflecting on blockers, suggest improvements to processes, and take the lead on 1\u20132 sprint ceremonies.",
+      "book": "Agile Estimating and Planning by Mike Cohn",
+      "follow": [
+        "@romanpichler",
+        "@scrumdotorg"
+      ]
+    },
+    "3": {
+      "current_state": "You independently manage delivery, run sprints, and unblock teams. Tools include Jira, Notion, or ClickUp. Metrics may include cycle time and sprint velocity.",
+      "growth_recommendation": "Optimize delivery flow, run quarterly planning, introduce delivery KPIs, and teach agile practices to juniors.",
+      "book": "Lean Product and Lean Analytics by Ben Yoskovitz",
+      "follow": [
+        "@adammgrant",
+        "@productboard"
+      ]
+    },
+    "4": {
+      "current_state": "You proactively mitigate risks and scale delivery across multiple teams. You may be implementing delivery playbooks and optimizing Agile flows.",
+      "growth_recommendation": "Introduce Agile at scale, track delivery health, coach others, and lead continuous improvement rituals.",
+      "book": "The Phoenix Project by Gene Kim",
+      "follow": [
+        "@martycagan",
+        "@toddlankford"
+      ]
+    },
+    "5": {
+      "current_state": "You lead delivery culture and present it as a strategic advantage. Your org uses your processes as templates.",
+      "growth_recommendation": "Document, present externally, and coach org-wide. Align delivery OKRs to company bets.",
+      "book": "Project to Product by Mik Kersten",
+      "follow": [
+        "@leanix_net",
+        "@jessedee"
+      ]
+    }
+  },
+  "Prioritization": {
+    "1": {
+      "current_state": "You follow task lists but don't yet assess impact or effort. Prioritization guidance likely comes from leads.",
+      "growth_recommendation": "Learn frameworks like RICE or MoSCoW. Start evaluating why tasks are chosen.",
+      "book": "Making Things Happen by Scott Berkun",
+      "follow": [
+        "@shreyas",
+        "@btravers"
+      ]
+    },
+    "2": {
+      "current_state": "You\u2019re learning to apply basic prioritization models. You still require validation of your priorities.",
+      "growth_recommendation": "Practice decision-making under constraints and customer feedback.",
+      "book": "The Lean Product Playbook by Dan Olsen",
+      "follow": [
+        "@danielstillman",
+        "@jmspool"
+      ]
+    },
+    "3": {
+      "current_state": "You balance trade-offs and independently prioritize product work. Likely applying RICE, impact vs. effort, etc.",
+      "growth_recommendation": "Refine frameworks with business impact in mind. Align prioritization to OKRs and stakeholder inputs.",
+      "book": "Inspired by Marty Cagan",
+      "follow": [
+        "@martycagan",
+        "@johncutlefish"
+      ]
+    },
+    "4": {
+      "current_state": "You prioritize cross-team initiatives and lead prioritization discussions. Stakeholder consensus is your norm.",
+      "growth_recommendation": "Develop a system to tie prioritization directly to company goals and revenue growth.",
+      "book": "Escaping the Build Trap by Melissa Perri",
+      "follow": [
+        "@melissaperri",
+        "@joshua_blo"
+      ]
+    },
+    "5": {
+      "current_state": "You drive portfolio-level decisions and influence exec teams. Prioritization is aligned org-wide.",
+      "growth_recommendation": "Train others on strategic prioritization. Build prioritization tools for scale.",
+      "book": "Good Strategy, Bad Strategy by Richard Rumelt",
+      "follow": [
+        "@clemensv",
+        "@shreyas"
+      ]
+    }
+  },
+  "Communication": {
+    "1": {
+      "recommendation": "Work on communicating clearly in written and spoken formats; request feedback after presentations or updates.",
+      "next_skills": "Practice stakeholder updates and meeting summaries; join a public speaking or writing course.",
+      "book": "Confident Communication for Leaders by Karla Brandau",
+      "profiles": [
+        "@melissaperri",
+        "@camille_fournet",
+        "@slidebean"
+      ]
+    },
+    "2": {
+      "recommendation": "Start adjusting messages for the audience; practice concise summaries and status updates.",
+      "next_skills": "Lead meetings and write stakeholder update emails regularly.",
+      "book": "Made to Stick by Chip & Dan Heath",
+      "profiles": [
+        "@johncutlefish",
+        "@productschool",
+        "@leila_ormozi"
+      ]
+    },
+    "3": {
+      "recommendation": "Communicate proactively; ensure alignment and clarity across stakeholders.",
+      "next_skills": "Structure complex product updates for multiple audiences.",
+      "book": "Crucial Conversations by Patterson, Grenny, McMillan, and Switzler",
+      "profiles": [
+        "@shreyas",
+        "@juliezhus",
+        "@matthewkobach"
+      ]
+    },
+    "4": {
+      "recommendation": "Drive alignment through persuasive and adaptive messaging; guide others in communication.",
+      "next_skills": "Coach peers on storytelling; present product plans to execs.",
+      "book": "Storytelling with Data by Cole Nussbaumer Knaflic",
+      "profiles": [
+        "@brenebrown",
+        "@a16z",
+        "@danielpink"
+      ]
+    },
+    "5": {
+      "recommendation": "Influence widely through structured communication; speak in internal/external forums.",
+      "next_skills": "Mentor PMs in communication; define comms frameworks across org.",
+      "book": "Talk Like TED by Carmine Gallo",
+      "profiles": [
+        "@reedhastings",
+        "@davidperell",
+        "@benedict_evans"
+      ]
+    }
+  },
+  "Roadmapping & Metrics": {
+    "1": {
+      "recommendation": "Understand your team's roadmap and goals; ask questions during planning.",
+      "next_skills": "Shadow roadmap planning meetings and write down key decisions.",
+      "book": "Product Roadmaps Relaunched by Lombardo, McCarthy",
+      "profiles": [
+        "@martycagan",
+        "@ronkain",
+        "@itamar_gilad"
+      ]
+    },
+    "2": {
+      "recommendation": "Contribute ideas to roadmap discussions and review metrics dashboards regularly.",
+      "next_skills": "Define sprint goals and help maintain roadmap docs.",
+      "book": "Measure What Matters by John Doerr",
+      "profiles": [
+        "@chrisspiek",
+        "@madhavb",
+        "@ycombinator"
+      ]
+    },
+    "3": {
+      "recommendation": "Maintain and adjust roadmap regularly; track metrics and derive insights.",
+      "next_skills": "Build OKRs for product goals and iterate roadmap accordingly.",
+      "book": "Lean Analytics by Alistair Croll & Ben Yoskovitz",
+      "profiles": [
+        "@csallen",
+        "@gibsonbiddle",
+        "@parisath"
+      ]
+    },
+    "4": {
+      "recommendation": "Lead roadmap planning cycles; define and track OKRs with clarity.",
+      "next_skills": "Lead cross-team planning and align roadmaps with strategy.",
+      "book": "Escaping the Build Trap by Melissa Perri",
+      "profiles": [
+        "@melissaperri",
+        "@shreyas",
+        "@kenny_baldwin"
+      ]
+    },
+    "5": {
+      "recommendation": "Strategize with data and planning; align roadmaps to company goals and market needs.",
+      "next_skills": "Drive long-term product bets; train others on planning discipline.",
+      "book": "Playing to Win by A.G. Lafley & Roger L. Martin",
+      "profiles": [
+        "@johncutlefish",
+        "@rishabhanka",
+        "@launchnotes"
+      ]
+    }
+  },
+{
+  "Strategy & Vision": {
+    "1": {
+      "development_recommendation": "Gain a clear understanding of your product's goals and how they align with company vision.",
+      "next_skills_achievements": "Map personal contributions to strategic outcomes. Learn the basics of strategic planning.",
+      "book": "Measure What Matters by John Doerr",
+      "accounts_to_follow": [
+        "@johncutlefish",
+        "@martycagan",
+        "@shreyas"
+      ]
+    },
+    "2": {
+      "development_recommendation": "Explore how your team\u2019s work aligns with company priorities. Ask to be involved in roadmap discussions.",
+      "next_skills_achievements": "Participate in quarterly planning. Reflect on market trends and their impact.",
+      "book": "Playing to Win by Lafley & Martin",
+      "accounts_to_follow": [
+        "@lennyrachitsky",
+        "@nireyal",
+        "@firstround"
+      ]
+    },
+    "3": {
+      "development_recommendation": "Contribute ideas to the strategy. Identify gaps and areas of opportunity proactively.",
+      "next_skills_achievements": "Develop OKRs. Write product strategy drafts. Define strategic goals.",
+      "book": "Good Strategy Bad Strategy by Richard Rumelt",
+      "accounts_to_follow": [
+        "@andrewchen",
+        "@bhorowitz",
+        "@ttunguz"
+      ]
+    },
+    "4": {
+      "development_recommendation": "Define product strategy and align stakeholders. Communicate clear, inspiring direction.",
+      "next_skills_achievements": "Create long-term strategic plans. Tie product vision to business outcomes.",
+      "book": "Escaping the Build Trap by Melissa Perri",
+      "accounts_to_follow": [
+        "@melissaperri",
+        "@johncutlefish",
+        "@bigspeak"
+      ]
+    },
+    "5": {
+      "development_recommendation": "Lead organizational or portfolio strategy. Represent company vision externally.",
+      "next_skills_achievements": "Influence C-level strategy. Serve as product visionary across markets or verticals.",
+      "book": "The Art of Strategy by Dixit & Nalebuff",
+      "accounts_to_follow": [
+        "@naval",
+        "@shreyas",
+        "@jasondemeyere"
+      ]
+    }
+  }, 
+  "Stakeholder Collaboration": {
+    "1": {
+      "recommendation": "Start by identifying key stakeholders and understanding their expectations. Practice sharing updates regularly with minimal guidance.",
+      "next_skills": "Improve your ability to manage expectations, resolve conflicts, and document stakeholder maps.",
+      "books": [
+        "*Crucial Conversations* by Patterson, Grenny, McMillan, and Switzler"
+      ],
+      "profiles": [
+        "@lennysan",
+        "@shivani_berry"
+      ]
+    },
+    "2": {
+      "recommendation": "Build consistency in your communication and align on deliverables early. Begin facilitating feedback sessions with stakeholders.",
+      "next_skills": "Learn stakeholder prioritization models and basic negotiation techniques.",
+      "books": [
+        "*The Influential Product Manager* by Ken Sandy"
+      ],
+      "profiles": [
+        "@johncutlefish",
+        "@julie_zhou"
+      ]
+    },
+    "3": {
+      "recommendation": "Effectively manage stakeholder expectations, priorities, and feedback. Keep a steady pulse on alignment and roadblocks.",
+      "next_skills": "Facilitate cross-team discussions and handle strategic trade-offs.",
+      "books": [
+        "*Escaping the Build Trap* by Melissa Perri"
+      ],
+      "profiles": [
+        "@melissaperri",
+        "@shreyas"
+      ]
+    },
+    "4": {
+      "recommendation": "Anticipate stakeholder needs, mediate disagreements, and drive consensus. Align conflicting interests efficiently.",
+      "next_skills": "Coach others on stakeholder strategies, run executive-level stakeholder updates.",
+      "books": [
+        "*Influence Without Authority* by Cohen and Bradford"
+      ],
+      "profiles": [
+        "@rosiesherry",
+        "@dvassallo"
+      ]
+    },
+    "5": {
+      "recommendation": "Shape company-wide stakeholder processes, and influence external and internal alignment on long-term bets.",
+      "next_skills": "Design strategic stakeholder engagement plans and train others.",
+      "books": [
+        "*Radical Candor* by Kim Scott"
+      ],
+      "profiles": [
+        "@kimballscott",
+        "@clearlyproduct"
+      ]
+    }
+  },
+
+  "Technical Fluency": {
+    "1": {
+      "recommendation": "Familiarize yourself with basic technology stack concepts like APIs, databases, and frontend/backend structure.",
+      "next_skills": "Understand how your product works at a high level; ask engineers for walkthroughs.",
+      "books": [
+        "*The Product Manager\u2019s Survival Guide* by Steven Haines"
+      ],
+      "profiles": [
+        "@danielstillman",
+        "@joshdarnit"
+      ]
+    },
+    "2": {
+      "recommendation": "Participate in technical discussions, and understand engineering estimates, dependencies, and trade-offs.",
+      "next_skills": "Learn about APIs, system architecture, and basic SQL.",
+      "books": [
+        "*A Common-Sense Guide to Data Structures and Algorithms* by Jay Wengrow"
+      ],
+      "profiles": [
+        "@theengineeringmanager",
+        "@dan_abramov"
+      ]
+    },
+    "3": {
+      "recommendation": "Make sound decisions using trade-offs between speed, scalability, and maintainability.",
+      "next_skills": "Create tech-focused user stories and work with engineers on planning.",
+      "books": [
+        "*The Manager\u2019s Path* by Camille Fournier"
+      ],
+      "profiles": [
+        "@camillefournier",
+        "@productschool"
+      ]
+    },
+    "4": {
+      "recommendation": "Drive architectural conversations and ensure alignment between product and tech vision.",
+      "next_skills": "Learn about scalability, distributed systems, and monitoring.",
+      "books": [
+        "*Site Reliability Engineering* by Google"
+      ],
+      "profiles": [
+        "@johncutlefish",
+        "@techleadjournal"
+      ]
+    },
+    "5": {
+      "recommendation": "Champion tech culture alignment, coach PMs on tech fluency, and influence roadmap based on tech innovation.",
+      "next_skills": "Write internal docs on tech systems; run tech-planning sessions.",
+      "books": [
+        "*Building Microservices* by Sam Newman"
+      ],
+      "profiles": [
+        "@swyx",
+        "@codeconfessions"
+      ]
+    }
+  }
+  "People Management": {
+    "1": {
+      "development_recommendation": "Start by observing how others manage teams. Learn about giving constructive feedback and creating a safe environment for collaboration.",
+      "next_skills_achievements": "Mentor a peer informally. Understand basic team dynamics and performance review processes.",
+      "book": "Radical Candor by Kim Scott",
+      "accounts_to_follow": [
+        "@kimballscott",
+        "@larrycornett",
+        "@rework"
+      ]
+    },
+    "2": {
+      "development_recommendation": "Begin mentoring others and shadow people managers. Practice setting expectations and running 1:1s.",
+      "next_skills_achievements": "Deliver feedback using structured frameworks like SBI or COIN. Understand your team members\u2019 goals.",
+      "book": "The Making of a Manager by Julie Zhuo",
+      "accounts_to_follow": [
+        "@juliezhuo",
+        "@managerspath",
+        "@leaddev"
+      ]
+    },
+    "3": {
+      "development_recommendation": "Manage direct reports. Run performance reviews and support their career growth.",
+      "next_skills_achievements": "Lead hiring interviews and support onboarding. Set and track team OKRs.",
+      "book": "Multipliers by Liz Wiseman",
+      "accounts_to_follow": [
+        "@lizwiseman",
+        "@coachingfoundry",
+        "@firstround"
+      ]
+    },
+    "4": {
+      "development_recommendation": "Define a vision for the team. Build a high-performing team culture. Handle difficult conversations.",
+      "next_skills_achievements": "Conduct calibration sessions and succession planning. Scale hiring and retention strategies.",
+      "book": "High Output Management by Andrew Grove",
+      "accounts_to_follow": [
+        "@shreyas",
+        "@bhorowitz",
+        "@matthewkule"
+      ]
+    },
+    "5": {
+      "development_recommendation": "Mentor other managers. Build scalable management processes and drive org-wide people strategies.",
+      "next_skills_achievements": "Define PM hiring rubric and strategy. Establish a strong management culture across teams.",
+      "book": "Leaders Eat Last by Simon Sinek",
+      "accounts_to_follow": [
+        "@simonsinek",
+        "@patricklencioni",
+        "@leadershipfreak"
+      ]
+    }
+  },
+  "Leadership": {
+    "1": {
+      "development_recommendation": "Demonstrate reliability. Take initiative and deliver on your commitments.",
+      "next_skills_achievements": "Volunteer to lead a small task or initiative. Develop a reputation for dependability.",
+      "book": "Extreme Ownership by Jocko Willink",
+      "accounts_to_follow": [
+        "@jockowillink",
+        "@craiggroeschel",
+        "@adamgrant"
+      ]
+    },
+    "2": {
+      "development_recommendation": "Support your peers. Share knowledge and improve team morale.",
+      "next_skills_achievements": "Take initiative on team processes. Improve collaboration in small ways.",
+      "book": "The Five Dysfunctions of a Team by Patrick Lencioni",
+      "accounts_to_follow": [
+        "@patricklencioni",
+        "@leaddev",
+        "@worklife"
+      ]
+    },
+    "3": {
+      "development_recommendation": "Lead by example. Guide peers and provide direction during ambiguity.",
+      "next_skills_achievements": "Drive alignment during uncertainty. Represent team in key discussions.",
+      "book": "Dare to Lead by Bren\u00e9 Brown",
+      "accounts_to_follow": [
+        "@brenebrown",
+        "@annachros",
+        "@molly_graham"
+      ]
+    },
+    "4": {
+      "development_recommendation": "Inspire teams. Align multiple stakeholders. Drive progress during organizational change.",
+      "next_skills_achievements": "Deliver strategic updates. Champion change with clarity and purpose.",
+      "book": "Drive by Daniel Pink",
+      "accounts_to_follow": [
+        "@danielpink",
+        "@shreyas",
+        "@startwithwhy"
+      ]
+    },
+    "5": {
+      "development_recommendation": "Influence company-wide direction. Mentor senior leaders. Evangelize product vision externally.",
+      "next_skills_achievements": "Serve as a thought leader. Lead transformation across orgs or markets.",
+      "book": "Good to Great by Jim Collins",
+      "accounts_to_follow": [
+        "@jamesclear",
+        "@naval",
+        "@jimcollinsco"
+      ]
+    }
+  },
+  "Domain Expertise": {
+    "1": {
+      "development_recommendation": "Learn industry basics. Understand common terminology and key players.",
+      "next_skills_achievements": "Read market research reports. Join industry communities.",
+      "book": "The Mom Test by Rob Fitzpatrick",
+      "accounts_to_follow": [
+        "@robfitz",
+        "@cbinsights",
+        "@ttunguz"
+      ]
+    },
+    "2": {
+      "development_recommendation": "Apply basic industry knowledge to your product. Learn regulatory landscape if applicable.",
+      "next_skills_achievements": "Follow competitors\u2019 launches and write internal briefings.",
+      "book": "Crossing the Chasm by Geoffrey A. Moore",
+      "accounts_to_follow": [
+        "@geoffreyamoore",
+        "@bhorowitz",
+        "@firstround"
+      ]
+    },
+    "3": {
+      "development_recommendation": "Use domain knowledge to influence product direction. Drive alignment with market trends.",
+      "next_skills_achievements": "Create value props based on domain-specific trends. Partner with industry experts.",
+      "book": "Play Bigger by Ramadan, Peterson, Lochhead",
+      "accounts_to_follow": [
+        "@davemcclure",
+        "@jasonlk",
+        "@a16z"
+      ]
+    },
+    "4": {
+      "development_recommendation": "Become the go-to domain expert internally. Shape strategy with expert-level insight.",
+      "next_skills_achievements": "Create content or workshops. Speak at industry events.",
+      "book": "Blue Ocean Strategy by Kim & Mauborgne",
+      "accounts_to_follow": [
+        "@blueoceanstrtgy",
+        "@davegerhardt",
+        "@producttalk"
+      ]
+    },
+    "5": {
+      "development_recommendation": "Drive innovation from domain leadership. Represent company externally as a thought leader.",
+      "next_skills_achievements": "Advise partners or policymakers. Publish content that shapes industry trends.",
+      "book": "The Innovator\u2019s Dilemma by Clayton Christensen",
+      "accounts_to_follow": [
+        "@claychristensen",
+        "@juliancole",
+        "@future_today_institute"
+      ]
+    }
+  }
+{
+  "Strategy & Vision": {
+    "1": {
+      "development_recommendation": "Gain a clear understanding of your product's goals and how they align with company vision.",
+      "next_skills_achievements": "Map personal contributions to strategic outcomes. Learn the basics of strategic planning.",
+      "book": "Measure What Matters by John Doerr",
+      "accounts_to_follow": [
+        "@johncutlefish",
+        "@martycagan",
+        "@shreyas"
+      ]
+    },
+    "2": {
+      "development_recommendation": "Explore how your team\u2019s work aligns with company priorities. Ask to be involved in roadmap discussions.",
+      "next_skills_achievements": "Participate in quarterly planning. Reflect on market trends and their impact.",
+      "book": "Playing to Win by Lafley & Martin",
+      "accounts_to_follow": [
+        "@lennyrachitsky",
+        "@nireyal",
+        "@firstround"
+      ]
+    },
+    "3": {
+      "development_recommendation": "Contribute ideas to the strategy. Identify gaps and areas of opportunity proactively.",
+      "next_skills_achievements": "Develop OKRs. Write product strategy drafts. Define strategic goals.",
+      "book": "Good Strategy Bad Strategy by Richard Rumelt",
+      "accounts_to_follow": [
+        "@andrewchen",
+        "@bhorowitz",
+        "@ttunguz"
+      ]
+    },
+    "4": {
+      "development_recommendation": "Define product strategy and align stakeholders. Communicate clear, inspiring direction.",
+      "next_skills_achievements": "Create long-term strategic plans. Tie product vision to business outcomes.",
+      "book": "Escaping the Build Trap by Melissa Perri",
+      "accounts_to_follow": [
+        "@melissaperri",
+        "@johncutlefish",
+        "@bigspeak"
+      ]
+    },
+    "5": {
+      "development_recommendation": "Lead organizational or portfolio strategy. Represent company vision externally.",
+      "next_skills_achievements": "Influence C-level strategy. Serve as product visionary across markets or verticals.",
+      "book": "The Art of Strategy by Dixit & Nalebuff",
+      "accounts_to_follow": [
+        "@naval",
+        "@shreyas",
+        "@jasondemeyere"
+      ]
+    }
+  },
+  "GTM & Marketing": {
+    "1": {
+      "development_recommendation": "Understand what go-to-market (GTM) means and learn how products are introduced to users.",
+      "next_skills_achievements": "Shadow product launches. Understand the basics of positioning and messaging.",
+      "book": "Obviously Awesome by April Dunford",
+      "accounts_to_follow": [
+        "@april_dunford",
+        "@productled",
+        "@davegerhardt"
+      ]
+    },
+    "2": {
+      "development_recommendation": "Support GTM efforts and coordinate with marketing teams.",
+      "next_skills_achievements": "Write product briefs. Collaborate on launch plans.",
+      "book": "Made to Stick by Chip & Dan Heath",
+      "accounts_to_follow": [
+        "@lennysan",
+        "@emilyheyward",
+        "@marketingexamples"
+      ]
+    },
+    "3": {
+      "development_recommendation": "Plan launches and coordinate cross-functionally. Ensure clear product messaging.",
+      "next_skills_achievements": "Build GTM timelines. Review campaign results with marketing.",
+      "book": "The Lean Startup by Eric Ries",
+      "accounts_to_follow": [
+        "@mktgexamples",
+        "@openviewventure",
+        "@firstround"
+      ]
+    },
+    "4": {
+      "development_recommendation": "Own GTM strategy and align stakeholders. Drive positioning that resonates with users.",
+      "next_skills_achievements": "Run integrated launches. Conduct messaging tests.",
+      "book": "Crossing the Chasm by Geoffrey Moore",
+      "accounts_to_follow": [
+        "@geoffreyamoore",
+        "@brianbalfour",
+        "@firstround"
+      ]
+    },
+    "5": {
+      "development_recommendation": "Drive GTM excellence across portfolios. Coach teams on positioning and growth.",
+      "next_skills_achievements": "Define scalable GTM frameworks. Speak at marketing/product events.",
+      "book": "Influence by Robert Cialdini",
+      "accounts_to_follow": [
+        "@dr_cialdini",
+        "@neilpatel",
+        "@startup_marketing"
+      ]
+    }
+  },
+  "Pricing & Revenue": {
+    "1": {
+      "development_recommendation": "Understand how pricing models work and what monetization means.",
+      "next_skills_achievements": "Explore freemium, tiered, or subscription models.",
+      "book": "Monetizing Innovation by Madhavan Ramanujam",
+      "accounts_to_follow": [
+        "@robfitz",
+        "@pricingprophets",
+        "@profitwell"
+      ]
+    },
+    "2": {
+      "development_recommendation": "Understand your product\u2019s pricing structure and its impact on users.",
+      "next_skills_achievements": "Analyze customer acquisition cost (CAC) and lifetime value (LTV).",
+      "book": "Smart Pricing by Jagmohan Raju",
+      "accounts_to_follow": [
+        "@leananalytics",
+        "@danmartell",
+        "@growthhackers"
+      ]
+    },
+    "3": {
+      "development_recommendation": "Support pricing strategy and test monetization models.",
+      "next_skills_achievements": "Conduct customer interviews and A/B pricing experiments.",
+      "book": "The Strategy and Tactics of Pricing by Thomas Nagle",
+      "accounts_to_follow": [
+        "@patrickcampbell",
+        "@peterlevine",
+        "@productled"
+      ]
+    },
+    "4": {
+      "development_recommendation": "Lead pricing decisions. Use data to support positioning and revenue outcomes.",
+      "next_skills_achievements": "Design pricing pages. Collaborate with finance and legal teams.",
+      "book": "Subscribed by Tien Tzuo",
+      "accounts_to_follow": [
+        "@tientzuo",
+        "@jasonlk",
+        "@saastr"
+      ]
+    },
+    "5": {
+      "development_recommendation": "Drive P&L ownership. Innovate on pricing models across product lines.",
+      "next_skills_achievements": "Model revenue scenarios and influence company monetization strategies.",
+      "book": "Hacking Growth by Sean Ellis",
+      "accounts_to_follow": [
+        "@seanellis",
+        "@growth",
+        "@yegg"
+      ]
+    }
+  },
+  "Data Literacy": {
+    "1": {
+      "development_recommendation": "Learn what product metrics matter (e.g. DAU, retention, churn). Start reviewing dashboards regularly.",
+      "next_skills_achievements": "Interpret KPIs like conversion or engagement. Know what good performance looks like.",
+      "book": "Lean Analytics by Alistair Croll & Ben Yoskovitz",
+      "accounts_to_follow": [
+        "@benyoskovitz",
+        "@julian",
+        "@analyticsvidhya"
+      ]
+    },
+    "2": {
+      "development_recommendation": "Explore tools like Mixpanel, Amplitude, GA4. Compare metrics across features.",
+      "next_skills_achievements": "Ask data-driven questions in planning. Use dashboards in retros.",
+      "book": "The Data-Driven Product Manager by Jesse Farmer",
+      "accounts_to_follow": [
+        "@productboard",
+        "@lennyrachitsky",
+        "@sarahtavel"
+      ]
+    },
+    "3": {
+      "development_recommendation": "Define success metrics and use them in prioritization. Collaborate with analysts or data teams.",
+      "next_skills_achievements": "Write event tracking specs. Lead outcome-focused discussions.",
+      "book": "Storytelling with Data by Cole Nussbaumer Knaflic",
+      "accounts_to_follow": [
+        "@cole_nussbaumer",
+        "@weareonova",
+        "@clevertap"
+      ]
+    },
+    "4": {
+      "development_recommendation": "Design dashboards. Run queries independently. Track feature performance over time.",
+      "next_skills_achievements": "Work with SQL or Looker. Lead data QA efforts. Drive data literacy in teams.",
+      "book": "Winning with Data by Tomasz Tunguz",
+      "accounts_to_follow": [
+        "@ttunguz",
+        "@modeanalytics",
+        "@metabase"
+      ]
+    },
+    "5": {
+      "development_recommendation": "Create a culture of data-informed product thinking. Evangelize analytics across functions.",
+      "next_skills_achievements": "Define org-wide metric frameworks. Set North Star metrics. Mentor others.",
+      "book": "Measure What Matters by John Doerr",
+      "accounts_to_follow": [
+        "@johncutlefish",
+        "@tristanharris",
+        "@superhuman"
+      ]
+    }
+  },
+  "UX & Design": {
+    "1": {
+      "development_recommendation": "Participate in design reviews. Learn the basics of usability and accessibility.",
+      "next_skills_achievements": "Give feedback on wireframes. Understand Figma or Miro basics.",
+      "book": "Don't Make Me Think by Steve Krug",
+      "accounts_to_follow": [
+        "@uxdesigncc",
+        "@nngroup",
+        "@steveschoger"
+      ]
+    },
+    "2": {
+      "development_recommendation": "Understand user flows. Track how users interact with your product.",
+      "next_skills_achievements": "Run a heuristic evaluation. Collaborate with UX researchers.",
+      "book": "The Design of Everyday Things by Don Norman",
+      "accounts_to_follow": [
+        "@jesseddy",
+        "@dannpetty",
+        "@smashingmag"
+      ]
+    },
+    "3": {
+      "development_recommendation": "Integrate UX research into product discovery. Prioritize with design insights.",
+      "next_skills_achievements": "Map journeys or pain points. Run user tests. Validate assumptions.",
+      "book": "Hooked by Nir Eyal",
+      "accounts_to_follow": [
+        "@nireyal",
+        "@uxmag",
+        "@invisionapp"
+      ]
+    },
+    "4": {
+      "development_recommendation": "Champion design thinking. Create prototypes or concept flows with designers.",
+      "next_skills_achievements": "Guide early UX strategy. Run design sprints. Prioritize UX tech debt.",
+      "book": "Sprint by Jake Knapp",
+      "accounts_to_follow": [
+        "@jakek",
+        "@ajsmartdesign",
+        "@figmadesign"
+      ]
+    },
+    "5": {
+      "development_recommendation": "Incorporate UX deeply in product strategy. Inspire a design-led culture.",
+      "next_skills_achievements": "Design for emotional impact. Evangelize UX. Speak externally.",
+      "book": "Creative Confidence by Tom & David Kelley",
+      "accounts_to_follow": [
+        "@ideo",
+        "@johnmaeda",
+        "@ux_strat"
+      ]
+    }
+  },
+  "Customer Discovery": {
+    "1": {
+      "development_recommendation": "Learn how to ask good questions. Observe user testing sessions or interviews.",
+      "next_skills_achievements": "Participate in discovery interviews. Record customer problems.",
+      "book": "The Mom Test by Rob Fitzpatrick",
+      "accounts_to_follow": [
+        "@robfitz",
+        "@productschool",
+        "@martycagan"
+      ]
+    },
+    "2": {
+      "development_recommendation": "Lead structured interviews. Document findings to share with the team.",
+      "next_skills_achievements": "Create insight decks. Start forming problem hypotheses.",
+      "book": "Continuous Discovery Habits by Teresa Torres",
+      "accounts_to_follow": [
+        "@ttorres",
+        "@producttalk",
+        "@janekim"
+      ]
+    },
+    "3": {
+      "development_recommendation": "Drive research cycles. Combine qualitative and quantitative inputs.",
+      "next_skills_achievements": "Use tools like Dovetail, Maze, or Lookback. Create problem/solution trees.",
+      "book": "Inspired by Marty Cagan",
+      "accounts_to_follow": [
+        "@martycagan",
+        "@diana_kander",
+        "@rosiecampbell"
+      ]
+    },
+    "4": {
+      "development_recommendation": "Champion customer voice org-wide. Help teams make evidence-based decisions.",
+      "next_skills_achievements": "Design discovery playbooks. Prioritize based on insight strength.",
+      "book": "Lean Customer Development by Cindy Alvarez",
+      "accounts_to_follow": [
+        "@cindy_alvarez",
+        "@rosiepope",
+        "@nielsfoo"
+      ]
+    },
+    "5": {
+      "development_recommendation": "Evangelize discovery culture. Train others on effective insight generation.",
+      "next_skills_achievements": "Design org-wide learning cycles. Present discovery outcomes company-wide.",
+      "book": "Build Better Products by Laura Klein",
+      "accounts_to_follow": [
+        "@lauraklein",
+        "@uxresearcher",
+        "@uxmatters"
+      ]
+    }
+  },
+  "Product & Market Discovery": {
+    "1": {
+      "development_recommendation": "Understand what market analysis is. Study competitor landing pages or offerings.",
+      "next_skills_achievements": "Compile basic competitor comparisons. Learn about market segments.",
+      "book": "Blue Ocean Strategy by Kim & Mauborgne",
+      "accounts_to_follow": [
+        "@benedict_evans",
+        "@cbinsights",
+        "@ttunguz"
+      ]
+    },
+    "2": {
+      "development_recommendation": "Analyze customer pain points and gaps in the market. Use SWOT analysis.",
+      "next_skills_achievements": "Write problem statements. Run opportunity sizing exercises.",
+      "book": "Play Bigger by Lochhead et al.",
+      "accounts_to_follow": [
+        "@a16z",
+        "@jasonlk",
+        "@productled"
+      ]
+    },
+    "3": {
+      "development_recommendation": "Validate ideas through early testing or MVPs. Create competitive positioning docs.",
+      "next_skills_achievements": "Design and run MVPs. Align discovery with marketing and product vision.",
+      "book": "Testing Business Ideas by David Bland",
+      "accounts_to_follow": [
+        "@blandstr",
+        "@strategyzer",
+        "@ycombinator"
+      ]
+    },
+    "4": {
+      "development_recommendation": "Identify disruptive opportunities. Define innovation roadmaps.",
+      "next_skills_achievements": "Partner with strategy teams. Present market research to execs.",
+      "book": "Zero to One by Peter Thiel",
+      "accounts_to_follow": [
+        "@peterthiel",
+        "@packym",
+        "@substack"
+      ]
+    },
+    "5": {
+      "development_recommendation": "Lead product-market fit strategy org-wide. Identify emerging markets.",
+      "next_skills_achievements": "Shape innovation bets. Mentor others in value innovation.",
+      "book": "The Innovator\u2019s Solution by Christensen & Raynor",
+      "accounts_to_follow": [
+        "@claychristensen",
+        "@naval",
+        "@lennysan"
+      ]
+    }
+  },
+  "Market & Regional Insights": {
+    "1": {
+      "development_recommendation": "Understand basic regional product adaptations (e.g. language, compliance).",
+      "next_skills_achievements": "Track market preferences via feedback or reviews.",
+      "book": "Culture Map by Erin Meyer",
+      "accounts_to_follow": [
+        "@erinmeyerINSEAD",
+        "@stratandbiz",
+        "@intercom"
+      ]
+    },
+    "2": {
+      "development_recommendation": "Participate in localization and understand cultural needs.",
+      "next_skills_achievements": "Work with local teams. Run feature flags or tests in regional markets.",
+      "book": "The Global Brand by Nigel Hollis",
+      "accounts_to_follow": [
+        "@localizejs",
+        "@thinkwithgoogle",
+        "@airbnbdesign"
+      ]
+    },
+    "3": {
+      "development_recommendation": "Own regional strategy. Understand customer behavior by geography.",
+      "next_skills_achievements": "Deliver regional OKRs. Present findings to GTM or leadership teams.",
+      "book": "Global Dexterity by Andy Molinsky",
+      "accounts_to_follow": [
+        "@harvardbiz",
+        "@andy_molinsky",
+        "@insightpartners"
+      ]
+    },
+    "4": {
+      "development_recommendation": "Lead regional expansion or localization planning.",
+      "next_skills_achievements": "Design regional product plans. Align cross-region stakeholders.",
+      "book": "The World Is Flat by Thomas Friedman",
+      "accounts_to_follow": [
+        "@tmfproject",
+        "@globalstrategy",
+        "@hbr"
+      ]
+    },
+    "5": {
+      "development_recommendation": "Define global strategy with local market precision.",
+      "next_skills_achievements": "Mentor others on global product thinking. Represent org in regional boards or alliances.",
+      "book": "World 3.0 by Pankaj Ghemawat",
+      "accounts_to_follow": [
+        "@pghemawat",
+        "@futuremap",
+        "@wired"
+      ]
+    }
+  }
+}
